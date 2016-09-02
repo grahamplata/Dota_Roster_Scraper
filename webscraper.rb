@@ -29,6 +29,7 @@ output = scrape_table(TARGET_URL, 'div.ConfirmationRow') do |row|
   {
     player_name: extract_text(row, 'div.OptimizeTextRadiance:nth-child(4) > span'),
     team_name: extract_text(row, 'div.OptimizeTextRadiance:nth-child(5) > span'),
+    team_id: extract_text(row, 'div.OptimizeTextRadiance:nth-child(5)').match(/\(ID: (\d+)\)/i).captures.first,
     action: extract_text(row, 'div.OptimizeTextRadiance:nth-child(6)')
   }
 end
