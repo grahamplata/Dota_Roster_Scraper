@@ -46,6 +46,8 @@ class DotaRosterScraper < TableScraper
         yield(row, @config)
       else
         {
+          time: extract_text(row, @config.time_selector),
+          date: extract_text(row, @config.date_selector),
           player_name: extract_text(row, @config.player_name_selector),
           team_name: extract_text(row, @config.team_name_selector),
           team_id: extract_text(row, @config.team_id_selector).match(@config.team_id_pattern).captures.first,
@@ -63,6 +65,8 @@ scraper = DotaRosterScraper.new(
 
   # Selectors
   rows_selector: 'div.ConfirmationRow',
+  date_selector: 'div.OptimizeTextRadiance:nth-child(1)',
+  time_selector: 'div.OptimizeTextRadiance:nth-child(2)',
   player_name_selector: 'div.OptimizeTextRadiance:nth-child(4) > span',
   team_name_selector: 'div.OptimizeTextRadiance:nth-child(5) > span',
   team_id_selector: 'div.OptimizeTextRadiance:nth-child(5)',
