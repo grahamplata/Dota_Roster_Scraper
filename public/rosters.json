@@ -1,1 +1,2682 @@
-"[\n  {\n    \"time\": \"02:01:58 PDT\",\n    \"date\": \"2016-09-06\",\n    \"player_name\": \"Liquid`JerAx\",\n    \"team_name\": \"OG Dota2\",\n    \"team_id\": \"100841499\",\n    \"action\": \"Joined the Team\"\n  },\n  {\n    \"time\": \"23:06:07 PDT\",\n    \"date\": \"2016-09-05\",\n    \"player_name\": \"shadow\",\n    \"team_name\": \"the wings gaming\",\n    \"team_id\": \"111114687\",\n    \"action\": \"Joined the Team\"\n  },\n  {\n    \"time\": \"12:48:26 PDT\",\n    \"date\": \"2016-09-05\",\n    \"player_name\": \"@dogf1ghts\",\n    \"team_name\": \"iG.Vitality\",\n    \"team_id\": \"103039499\",\n    \"action\": \"Joined the Team\"\n  },\n  {\n    \"time\": \"10:58:32 PDT\",\n    \"date\": \"2016-09-05\",\n    \"player_name\": \"Yuno\",\n    \"team_name\": \"iG.Vitality\",\n    \"team_id\": \"103039499\",\n    \"action\": \"Joined the Team\"\n  },\n  {\n    \"time\": \"10:24:34 PDT\",\n    \"date\": \"2016-09-05\",\n    \"player_name\": \"Ghostik\",\n    \"team_name\": \"Team Empire\",\n    \"team_id\": \"106285240\",\n    \"action\": \"Joined the Team\"\n  },\n  {\n    \"time\": \"10:06:37 PDT\",\n    \"date\": \"2016-09-05\",\n    \"player_name\": \"Fran\",\n    \"team_name\": \"iG.Vitality\",\n    \"team_id\": \"103039499\",\n    \"action\": \"Joined the Team\"\n  },\n  {\n    \"time\": \"10:05:22 PDT\",\n    \"date\": \"2016-09-05\",\n    \"player_name\": \"super\",\n    \"team_name\": \"iG.Vitality\",\n    \"team_id\": \"103039499\",\n    \"action\": \"Joined the Team\"\n  },\n  {\n    \"time\": \"09:38:32 PDT\",\n    \"date\": \"2016-09-05\",\n    \"player_name\": \"MidOne\",\n    \"team_name\": \"Team Secret\",\n    \"team_id\": \"5390881\",\n    \"action\": \"Joined the Team\"\n  },\n  {\n    \"time\": \"06:43:19 PDT\",\n    \"date\": \"2016-09-05\",\n    \"player_name\": \"s4\",\n    \"team_name\": \"OG Dota2\",\n    \"team_id\": \"100841499\",\n    \"action\": \"Joined the Team\"\n  },\n  {\n    \"time\": \"06:39:27 PDT\",\n    \"date\": \"2016-09-05\",\n    \"player_name\": \"ana\",\n    \"team_name\": \"OG Dota2\",\n    \"team_id\": \"100841499\",\n    \"action\": \"Joined the Team\"\n  },\n  {\n    \"time\": \"06:24:43 PDT\",\n    \"date\": \"2016-09-05\",\n    \"player_name\": \"Varizh\",\n    \"team_name\": \"Rex Regum QEON\",\n    \"team_id\": \"111372926\",\n    \"action\": \"Joined the Team\"\n  },\n  {\n    \"time\": \"02:59:32 PDT\",\n    \"date\": \"2016-09-05\",\n    \"player_name\": \"跳刀跳刀丶\",\n    \"team_name\": \"the wings gaming\",\n    \"team_id\": \"111114687\",\n    \"action\": \"Joined the Team\"\n  },\n  {\n    \"time\": \"02:24:45 PDT\",\n    \"date\": \"2016-09-05\",\n    \"player_name\": \"Faith_bian\",\n    \"team_name\": \"the wings gaming\",\n    \"team_id\": \"111114687\",\n    \"action\": \"Joined the Team\"\n  },\n  {\n    \"time\": \"02:16:55 PDT\",\n    \"date\": \"2016-09-05\",\n    \"player_name\": \"y`\",\n    \"team_name\": \"the wings gaming\",\n    \"team_id\": \"111114687\",\n    \"action\": \"Joined the Team\"\n  },\n  {\n    \"time\": \"00:44:52 PDT\",\n    \"date\": \"2016-09-05\",\n    \"player_name\": \"Rr\",\n    \"team_name\": \"Mineski.Sports5\",\n    \"team_id\": \"86485206\",\n    \"action\": \"Joined the Team\"\n  },\n  {\n    \"time\": \"00:43:38 PDT\",\n    \"date\": \"2016-09-05\",\n    \"player_name\": \"Meracle\",\n    \"team_name\": \"Mineski.Sports5\",\n    \"team_id\": \"86485206\",\n    \"action\": \"Joined the Team\"\n  },\n  {\n    \"time\": \"00:42:31 PDT\",\n    \"date\": \"2016-09-05\",\n    \"player_name\": \"nb\",\n    \"team_name\": \"Mineski.Sports5\",\n    \"team_id\": \"86485206\",\n    \"action\": \"Joined the Team\"\n  },\n  {\n    \"time\": \"12:56:43 PDT\",\n    \"date\": \"2016-09-04\",\n    \"player_name\": \"MP\",\n    \"team_name\": \"Team Secret\",\n    \"team_id\": \"5390881\",\n    \"action\": \"Joined the Team\"\n  },\n  {\n    \"time\": \"10:46:32 PDT\",\n    \"date\": \"2016-09-04\",\n    \"player_name\": \"Bean\",\n    \"team_name\": \"Friendship, Dedication, Love\",\n    \"team_id\": \"86974263\",\n    \"action\": \"Joined the Team\"\n  },\n  {\n    \"time\": \"10:46:04 PDT\",\n    \"date\": \"2016-09-04\",\n    \"player_name\": \"747\",\n    \"team_name\": \"Friendship, Dedication, Love\",\n    \"team_id\": \"86974263\",\n    \"action\": \"Joined the Team\"\n  },\n  {\n    \"time\": \"10:45:14 PDT\",\n    \"date\": \"2016-09-04\",\n    \"player_name\": \"04\",\n    \"team_name\": \"Friendship, Dedication, Love\",\n    \"team_id\": \"86974263\",\n    \"action\": \"Joined the Team\"\n  },\n  {\n    \"time\": \"10:44:39 PDT\",\n    \"date\": \"2016-09-04\",\n    \"player_name\": \"STAN KING\",\n    \"team_name\": \"Friendship, Dedication, Love\",\n    \"team_id\": \"86974263\",\n    \"action\": \"Joined the Team\"\n  },\n  {\n    \"time\": \"09:36:16 PDT\",\n    \"date\": \"2016-09-04\",\n    \"player_name\": \"Forev\",\n    \"team_name\": \"Team Secret\",\n    \"team_id\": \"5390881\",\n    \"action\": \"Joined the Team\"\n  },\n  {\n    \"time\": \"21:09:39 PDT\",\n    \"date\": \"2016-09-03\",\n    \"player_name\": \"Sakula\",\n    \"team_name\": \"DrinkingBoys\",\n    \"team_id\": \"116030980\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"19:32:20 PDT\",\n    \"date\": \"2016-09-03\",\n    \"player_name\": \"sLiCKz\",\n    \"team_name\": \"EverNovaS\",\n    \"team_id\": \"100600249\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"19:00:12 PDT\",\n    \"date\": \"2016-09-03\",\n    \"player_name\": \"PPD\",\n    \"team_name\": \"Evil Geniuses\",\n    \"team_id\": \"70884685\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"19:00:05 PDT\",\n    \"date\": \"2016-09-03\",\n    \"player_name\": \"Universe\",\n    \"team_name\": \"Evil Geniuses\",\n    \"team_id\": \"70884685\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"14:17:24 PDT\",\n    \"date\": \"2016-09-03\",\n    \"player_name\": \"yol\",\n    \"team_name\": \"Fantastic.Five'\",\n    \"team_id\": \"76600360\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"14:17:21 PDT\",\n    \"date\": \"2016-09-03\",\n    \"player_name\": \"633\",\n    \"team_name\": \"Fantastic.Five'\",\n    \"team_id\": \"76600360\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"13:41:38 PDT\",\n    \"date\": \"2016-09-03\",\n    \"player_name\": \"rmn-\",\n    \"team_name\": \"Fantastic.Five'\",\n    \"team_id\": \"76600360\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"06:19:32 PDT\",\n    \"date\": \"2016-09-03\",\n    \"player_name\": \"Liquid`FATA-\",\n    \"team_name\": \"Team Liquid\",\n    \"team_id\": \"113439358\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"02:41:37 PDT\",\n    \"date\": \"2016-09-03\",\n    \"player_name\": \"shadow\",\n    \"team_name\": \"the wings gaming\",\n    \"team_id\": \"111114687\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"02:41:35 PDT\",\n    \"date\": \"2016-09-03\",\n    \"player_name\": \"Faith_bian\",\n    \"team_name\": \"the wings gaming\",\n    \"team_id\": \"111114687\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"02:41:32 PDT\",\n    \"date\": \"2016-09-03\",\n    \"player_name\": \"iceice\",\n    \"team_name\": \"the wings gaming\",\n    \"team_id\": \"111114687\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"02:41:29 PDT\",\n    \"date\": \"2016-09-03\",\n    \"player_name\": \"跳刀跳刀丶\",\n    \"team_name\": \"the wings gaming\",\n    \"team_id\": \"111114687\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"02:39:57 PDT\",\n    \"date\": \"2016-09-03\",\n    \"player_name\": \"y`\",\n    \"team_name\": \"the wings gaming\",\n    \"team_id\": \"111114687\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"02:26:54 PDT\",\n    \"date\": \"2016-09-03\",\n    \"player_name\": \"Kefka\",\n    \"team_name\": \"London Conspiracy Dota2\",\n    \"team_id\": \"106064005\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"01:05:08 PDT\",\n    \"date\": \"2016-09-03\",\n    \"player_name\": \"Lubby\",\n    \"team_name\": \"First Departure\",\n    \"team_id\": \"86741690\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"00:27:42 PDT\",\n    \"date\": \"2016-09-03\",\n    \"player_name\": \"Akke\",\n    \"team_name\": \"Alliance\",\n    \"team_id\": \"32428445\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"23:13:30 PDT\",\n    \"date\": \"2016-09-02\",\n    \"player_name\": \"KaL\",\n    \"team_name\": \"First Departure\",\n    \"team_id\": \"86741690\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"23:06:37 PDT\",\n    \"date\": \"2016-09-02\",\n    \"player_name\": \"Kai\",\n    \"team_name\": \"First Departure\",\n    \"team_id\": \"86741690\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"15:15:33 PDT\",\n    \"date\": \"2016-09-02\",\n    \"player_name\": \"Lil_kin6\",\n    \"team_name\": \"paiN Gaming\",\n    \"team_id\": \"164113247\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"15:15:30 PDT\",\n    \"date\": \"2016-09-02\",\n    \"player_name\": \"4dr\",\n    \"team_name\": \"paiN Gaming\",\n    \"team_id\": \"164113247\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"15:12:32 PDT\",\n    \"date\": \"2016-09-02\",\n    \"player_name\": \"Lanaro\",\n    \"team_name\": \"paiN Gaming\",\n    \"team_id\": \"164113247\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"15:10:23 PDT\",\n    \"date\": \"2016-09-02\",\n    \"player_name\": \"KinGRD\",\n    \"team_name\": \"paiN Gaming\",\n    \"team_id\": \"164113247\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"15:08:25 PDT\",\n    \"date\": \"2016-09-02\",\n    \"player_name\": \"Jubileu\",\n    \"team_name\": \"paiN Gaming\",\n    \"team_id\": \"164113247\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"14:40:39 PDT\",\n    \"date\": \"2016-09-02\",\n    \"player_name\": \"TC\",\n    \"team_name\": \"Shazam~\",\n    \"team_id\": \"31818853\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"12:23:18 PDT\",\n    \"date\": \"2016-09-02\",\n    \"player_name\": \"Nightmare\",\n    \"team_name\": \"Not Today !\",\n    \"team_id\": \"88358606\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"11:44:38 PDT\",\n    \"date\": \"2016-09-02\",\n    \"player_name\": \"Miracle-\",\n    \"team_name\": \"OG Dota2\",\n    \"team_id\": \"100841499\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"10:58:16 PDT\",\n    \"date\": \"2016-09-02\",\n    \"player_name\": \"AdmiralBulldog\",\n    \"team_name\": \"Alliance\",\n    \"team_id\": \"32428445\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"09:23:46 PDT\",\n    \"date\": \"2016-09-02\",\n    \"player_name\": \"Abed\",\n    \"team_name\": \"Execration\",\n    \"team_id\": \"91654584\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"08:19:50 PDT\",\n    \"date\": \"2016-09-02\",\n    \"player_name\": \"Afterlife\",\n    \"team_name\": \"Team Empire\",\n    \"team_id\": \"106285240\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"07:27:00 PDT\",\n    \"date\": \"2016-09-02\",\n    \"player_name\": \"Greedy\",\n    \"team_name\": \"Infamous -_^\",\n    \"team_id\": \"119631156\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"06:10:43 PDT\",\n    \"date\": \"2016-09-02\",\n    \"player_name\": \"goddam\",\n    \"team_name\": \"_PowerRangers\",\n    \"team_id\": \"149591474\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"02:41:15 PDT\",\n    \"date\": \"2016-09-02\",\n    \"player_name\": \"Arteezy\",\n    \"team_name\": \"Team Secret\",\n    \"team_id\": \"5390881\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"09:05:22 PDT\",\n    \"date\": \"2016-09-01\",\n    \"player_name\": \"Biver\",\n    \"team_name\": \"London Conspiracy Dota2\",\n    \"team_id\": \"106064005\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"09:04:25 PDT\",\n    \"date\": \"2016-09-01\",\n    \"player_name\": \"Mawi\",\n    \"team_name\": \"4Vikings+Dane\",\n    \"team_id\": \"41818582\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"07:35:58 PDT\",\n    \"date\": \"2016-09-01\",\n    \"player_name\": \"Syeonix\",\n    \"team_name\": \"Orange.Taring\",\n    \"team_id\": \"121052479\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"01:35:08 PDT\",\n    \"date\": \"2016-09-01\",\n    \"player_name\": \"Ice\",\n    \"team_name\": \"Orange.Taring\",\n    \"team_id\": \"121052479\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"18:55:02 PDT\",\n    \"date\": \"2016-08-31\",\n    \"player_name\": \"Garter\",\n    \"team_name\": \"Prodota GaminG\",\n    \"team_id\": \"114048579\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"14:25:04 PDT\",\n    \"date\": \"2016-08-31\",\n    \"player_name\": \"DuBu\",\n    \"team_name\": \"MVP Phoenix\",\n    \"team_id\": \"93119769\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"12:10:05 PDT\",\n    \"date\": \"2016-08-31\",\n    \"player_name\": \"Ramzes666\",\n    \"team_name\": \"Team Empire\",\n    \"team_id\": \"106285240\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"09:35:31 PDT\",\n    \"date\": \"2016-08-31\",\n    \"player_name\": \"Liquid`JerAx\",\n    \"team_name\": \"Team Liquid\",\n    \"team_id\": \"113439358\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"07:44:16 PDT\",\n    \"date\": \"2016-08-31\",\n    \"player_name\": \"YamateH\",\n    \"team_name\": \"Orange.Taring\",\n    \"team_id\": \"121052479\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"07:27:58 PDT\",\n    \"date\": \"2016-08-31\",\n    \"player_name\": \"Ar1se\",\n    \"team_name\": \"_PowerRangers\",\n    \"team_id\": \"149591474\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"07:21:09 PDT\",\n    \"date\": \"2016-08-31\",\n    \"player_name\": \"Febby\",\n    \"team_name\": \"MVP Phoenix\",\n    \"team_id\": \"93119769\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"06:38:06 PDT\",\n    \"date\": \"2016-08-31\",\n    \"player_name\": \"QO\",\n    \"team_name\": \"MVP Phoenix\",\n    \"team_id\": \"93119769\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"04:21:50 PDT\",\n    \"date\": \"2016-08-31\",\n    \"player_name\": \"Nafari\",\n    \"team_name\": \"_Nas Ne Dogonyat\",\n    \"team_id\": \"117201231\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"15:31:09 PDT\",\n    \"date\": \"2016-08-30\",\n    \"player_name\": \"SCL\",\n    \"team_name\": \"_Nas Ne Dogonyat\",\n    \"team_id\": \"117201231\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"14:49:38 PDT\",\n    \"date\": \"2016-08-30\",\n    \"player_name\": \"Bubu\",\n    \"team_name\": \"_Nas Ne Dogonyat\",\n    \"team_id\": \"117201231\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"13:58:43 PDT\",\n    \"date\": \"2016-08-30\",\n    \"player_name\": \"Chessie\",\n    \"team_name\": \"compLexity Gaming\",\n    \"team_id\": \"28291366\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"11:24:25 PDT\",\n    \"date\": \"2016-08-30\",\n    \"player_name\": \"Varizh\",\n    \"team_name\": \"Rex Regum QEON\",\n    \"team_id\": \"111372926\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"09:04:02 PDT\",\n    \"date\": \"2016-08-30\",\n    \"player_name\": \"m\",\n    \"team_name\": \"Energy Pacemaker gaming\",\n    \"team_id\": \"114845159\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"09:03:57 PDT\",\n    \"date\": \"2016-08-30\",\n    \"player_name\": \"Eu\",\n    \"team_name\": \"Energy Pacemaker gaming\",\n    \"team_id\": \"114845159\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"09:03:49 PDT\",\n    \"date\": \"2016-08-30\",\n    \"player_name\": \"mool\",\n    \"team_name\": \"Energy Pacemaker gaming\",\n    \"team_id\": \"114845159\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"09:03:44 PDT\",\n    \"date\": \"2016-08-30\",\n    \"player_name\": \"Kol\",\n    \"team_name\": \"Energy Pacemaker gaming\",\n    \"team_id\": \"114845159\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"09:03:33 PDT\",\n    \"date\": \"2016-08-30\",\n    \"player_name\": \"Cookie bear\",\n    \"team_name\": \"Energy Pacemaker gaming\",\n    \"team_id\": \"114845159\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"08:43:34 PDT\",\n    \"date\": \"2016-08-30\",\n    \"player_name\": \"FaN\",\n    \"team_name\": \"Newbee.Young\",\n    \"team_id\": \"89296893\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"08:43:24 PDT\",\n    \"date\": \"2016-08-30\",\n    \"player_name\": \"Mrrr\",\n    \"team_name\": \"Newbee.Young\",\n    \"team_id\": \"89296893\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"08:43:21 PDT\",\n    \"date\": \"2016-08-30\",\n    \"player_name\": \"Le\",\n    \"team_name\": \"Newbee.Young\",\n    \"team_id\": \"89296893\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"08:43:01 PDT\",\n    \"date\": \"2016-08-30\",\n    \"player_name\": \"2Lei\",\n    \"team_name\": \"Newbee.Young\",\n    \"team_id\": \"89296893\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"08:11:04 PDT\",\n    \"date\": \"2016-08-30\",\n    \"player_name\": \"Handsken\",\n    \"team_name\": \"compLexity Gaming\",\n    \"team_id\": \"28291366\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"07:58:59 PDT\",\n    \"date\": \"2016-08-30\",\n    \"player_name\": \"Limmp\",\n    \"team_name\": \"compLexity Gaming\",\n    \"team_id\": \"28291366\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"07:40:31 PDT\",\n    \"date\": \"2016-08-30\",\n    \"player_name\": \"Boboka\",\n    \"team_name\": \"Invictus Gaming\",\n    \"team_id\": \"86767173\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"07:40:28 PDT\",\n    \"date\": \"2016-08-30\",\n    \"player_name\": \"Rong\",\n    \"team_name\": \"Invictus Gaming\",\n    \"team_id\": \"86767173\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"07:40:22 PDT\",\n    \"date\": \"2016-08-30\",\n    \"player_name\": \"Xxs\",\n    \"team_name\": \"Invictus Gaming\",\n    \"team_id\": \"86767173\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"07:40:18 PDT\",\n    \"date\": \"2016-08-30\",\n    \"player_name\": \"qd\",\n    \"team_name\": \"Invictus Gaming\",\n    \"team_id\": \"86767173\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"07:39:39 PDT\",\n    \"date\": \"2016-08-30\",\n    \"player_name\": \"yoky-\",\n    \"team_name\": \"Virtus.pro\",\n    \"team_id\": \"94049589\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"07:02:10 PDT\",\n    \"date\": \"2016-08-30\",\n    \"player_name\": \"Q\",\n    \"team_name\": \"CDEC Gaming\",\n    \"team_id\": \"148539787\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"07:02:07 PDT\",\n    \"date\": \"2016-08-30\",\n    \"player_name\": \"Rabbit\",\n    \"team_name\": \"CDEC Gaming\",\n    \"team_id\": \"148539787\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"07:02:04 PDT\",\n    \"date\": \"2016-08-30\",\n    \"player_name\": \"Super\",\n    \"team_name\": \"CDEC Gaming\",\n    \"team_id\": \"148539787\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"06:41:51 PDT\",\n    \"date\": \"2016-08-30\",\n    \"player_name\": \"hym\",\n    \"team_name\": \"Vici Gaming\",\n    \"team_id\": \"100812084\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"06:41:49 PDT\",\n    \"date\": \"2016-08-30\",\n    \"player_name\": \"Cty\",\n    \"team_name\": \"Vici Gaming\",\n    \"team_id\": \"100812084\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"06:41:47 PDT\",\n    \"date\": \"2016-08-30\",\n    \"player_name\": \"rOtk\",\n    \"team_name\": \"Vici Gaming\",\n    \"team_id\": \"100812084\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"06:37:00 PDT\",\n    \"date\": \"2016-08-30\",\n    \"player_name\": \"Xz\",\n    \"team_name\": \"\",\n    \"team_id\": \"151717190\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"06:36:57 PDT\",\n    \"date\": \"2016-08-30\",\n    \"player_name\": \"Demons\",\n    \"team_name\": \"\",\n    \"team_id\": \"151717190\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"06:36:55 PDT\",\n    \"date\": \"2016-08-30\",\n    \"player_name\": \"Inflame\",\n    \"team_name\": \"\",\n    \"team_id\": \"151717190\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"06:36:53 PDT\",\n    \"date\": \"2016-08-30\",\n    \"player_name\": \"Victoria\",\n    \"team_name\": \"\",\n    \"team_id\": \"151717190\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"06:31:43 PDT\",\n    \"date\": \"2016-08-30\",\n    \"player_name\": \"END\",\n    \"team_name\": \"Vici_Gaming Reborn\",\n    \"team_id\": \"128513043\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"06:31:41 PDT\",\n    \"date\": \"2016-08-30\",\n    \"player_name\": \"ddc\",\n    \"team_name\": \"Vici_Gaming Reborn\",\n    \"team_id\": \"128513043\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"06:31:35 PDT\",\n    \"date\": \"2016-08-30\",\n    \"player_name\": \"mikasa\",\n    \"team_name\": \"Vici_Gaming Reborn\",\n    \"team_id\": \"128513043\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"06:31:32 PDT\",\n    \"date\": \"2016-08-30\",\n    \"player_name\": \"fy\",\n    \"team_name\": \"Vici_Gaming Reborn\",\n    \"team_id\": \"128513043\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"06:31:19 PDT\",\n    \"date\": \"2016-08-30\",\n    \"player_name\": \"Nono\",\n    \"team_name\": \"Vici_Gaming Reborn\",\n    \"team_id\": \"128513043\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"06:27:51 PDT\",\n    \"date\": \"2016-08-30\",\n    \"player_name\": \"xiao8\",\n    \"team_name\": \"LGD-GAMING\",\n    \"team_id\": \"118678359\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"06:27:49 PDT\",\n    \"date\": \"2016-08-30\",\n    \"player_name\": \"MMY!\",\n    \"team_name\": \"LGD-GAMING\",\n    \"team_id\": \"118678359\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"06:27:47 PDT\",\n    \"date\": \"2016-08-30\",\n    \"player_name\": \"banana\",\n    \"team_name\": \"LGD-GAMING\",\n    \"team_id\": \"118678359\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"06:22:26 PDT\",\n    \"date\": \"2016-08-30\",\n    \"player_name\": \"old chicken\",\n    \"team_name\": \"EHOME\",\n    \"team_id\": \"163227125\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"06:22:22 PDT\",\n    \"date\": \"2016-08-30\",\n    \"player_name\": \"old eLeVeN\",\n    \"team_name\": \"EHOME\",\n    \"team_id\": \"163227125\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"06:22:14 PDT\",\n    \"date\": \"2016-08-30\",\n    \"player_name\": \"Fenrir\",\n    \"team_name\": \"EHOME\",\n    \"team_id\": \"163227125\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"06:22:11 PDT\",\n    \"date\": \"2016-08-30\",\n    \"player_name\": \"old LaNm\",\n    \"team_name\": \"EHOME\",\n    \"team_id\": \"163227125\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"06:21:37 PDT\",\n    \"date\": \"2016-08-30\",\n    \"player_name\": \"Nofear\",\n    \"team_name\": \"Virtus.pro\",\n    \"team_id\": \"94049589\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"06:21:24 PDT\",\n    \"date\": \"2016-08-30\",\n    \"player_name\": \"super\",\n    \"team_name\": \"iG.Vitality\",\n    \"team_id\": \"103039499\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"06:21:16 PDT\",\n    \"date\": \"2016-08-30\",\n    \"player_name\": \"@dogf1ghts\",\n    \"team_name\": \"iG.Vitality\",\n    \"team_id\": \"103039499\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"06:21:14 PDT\",\n    \"date\": \"2016-08-30\",\n    \"player_name\": \"InJuly\",\n    \"team_name\": \"iG.Vitality\",\n    \"team_id\": \"103039499\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"06:21:12 PDT\",\n    \"date\": \"2016-08-30\",\n    \"player_name\": \"Yuno\",\n    \"team_name\": \"iG.Vitality\",\n    \"team_id\": \"103039499\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"06:21:08 PDT\",\n    \"date\": \"2016-08-30\",\n    \"player_name\": \"Fran\",\n    \"team_name\": \"iG.Vitality\",\n    \"team_id\": \"103039499\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"06:18:08 PDT\",\n    \"date\": \"2016-08-30\",\n    \"player_name\": \"Lin\",\n    \"team_name\": \"TongFu|\",\n    \"team_id\": \"88521435\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"05:51:05 PDT\",\n    \"date\": \"2016-08-30\",\n    \"player_name\": \"June\",\n    \"team_name\": \"CDEC.Avengers\",\n    \"team_id\": \"119525384\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"05:50:19 PDT\",\n    \"date\": \"2016-08-30\",\n    \"player_name\": \"Flyby\",\n    \"team_name\": \"CDEC.Avengers\",\n    \"team_id\": \"119525384\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"05:50:14 PDT\",\n    \"date\": \"2016-08-30\",\n    \"player_name\": \"Xi\",\n    \"team_name\": \"CDEC.Avengers\",\n    \"team_id\": \"119525384\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"05:49:30 PDT\",\n    \"date\": \"2016-08-30\",\n    \"player_name\": \"Monet\",\n    \"team_name\": \"CDEC.Avengers\",\n    \"team_id\": \"118344286\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"05:45:29 PDT\",\n    \"date\": \"2016-08-30\",\n    \"player_name\": \"FT\",\n    \"team_name\": \"BraveHeart.Zombie\",\n    \"team_id\": \"102024536\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"05:30:18 PDT\",\n    \"date\": \"2016-08-30\",\n    \"player_name\": \"kaka\",\n    \"team_name\": \"Newbee\",\n    \"team_id\": \"259137096\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"05:30:16 PDT\",\n    \"date\": \"2016-08-30\",\n    \"player_name\": \"Mu\",\n    \"team_name\": \"Newbee\",\n    \"team_id\": \"259137096\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"05:30:14 PDT\",\n    \"date\": \"2016-08-30\",\n    \"player_name\": \"ChuaN\",\n    \"team_name\": \"Newbee\",\n    \"team_id\": \"259137096\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"05:30:12 PDT\",\n    \"date\": \"2016-08-30\",\n    \"player_name\": \"kpii\",\n    \"team_name\": \"Newbee\",\n    \"team_id\": \"259137096\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"04:50:31 PDT\",\n    \"date\": \"2016-08-30\",\n    \"player_name\": \"Red\",\n    \"team_name\": \"BraveHeart.Zombie\",\n    \"team_id\": \"102024536\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"04:46:53 PDT\",\n    \"date\": \"2016-08-30\",\n    \"player_name\": \"sone\",\n    \"team_name\": \"OOGWAY\",\n    \"team_id\": \"41246809\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"03:06:23 PDT\",\n    \"date\": \"2016-08-30\",\n    \"player_name\": \"Guardian\",\n    \"team_name\": \"CDEC Gaming\",\n    \"team_id\": \"148539787\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"02:29:01 PDT\",\n    \"date\": \"2016-08-30\",\n    \"player_name\": \"Hao\",\n    \"team_name\": \"Newbee\",\n    \"team_id\": \"259137096\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"22:29:48 PDT\",\n    \"date\": \"2016-08-29\",\n    \"player_name\": \"BurNIng\",\n    \"team_name\": \"Vici Gaming\",\n    \"team_id\": \"100812084\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"19:55:39 PDT\",\n    \"date\": \"2016-08-29\",\n    \"player_name\": \"Jason\",\n    \"team_name\": \"Shazam~\",\n    \"team_id\": \"31818853\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"18:50:48 PDT\",\n    \"date\": \"2016-08-29\",\n    \"player_name\": \"Mad\",\n    \"team_name\": \"DrinkingBoys\",\n    \"team_id\": \"116030980\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"10:42:36 PDT\",\n    \"date\": \"2016-08-29\",\n    \"player_name\": \"Yao\",\n    \"team_name\": \"CDEC Gaming\",\n    \"team_id\": \"148539787\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"04:49:02 PDT\",\n    \"date\": \"2016-08-29\",\n    \"player_name\": \"Tims\",\n    \"team_name\": \"Execration\",\n    \"team_id\": \"91654584\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"02:18:24 PDT\",\n    \"date\": \"2016-08-29\",\n    \"player_name\": \"iceiceice\",\n    \"team_name\": \"EHOME\",\n    \"team_id\": \"163227125\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"00:12:03 PDT\",\n    \"date\": \"2016-08-29\",\n    \"player_name\": \"KO\",\n    \"team_name\": \"FTD club a\",\n    \"team_id\": \"184090105\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"00:12:01 PDT\",\n    \"date\": \"2016-08-29\",\n    \"player_name\": \"destiny samaQAQ\",\n    \"team_name\": \"FTD club a\",\n    \"team_id\": \"184090105\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"00:11:58 PDT\",\n    \"date\": \"2016-08-29\",\n    \"player_name\": \"Kingj\",\n    \"team_name\": \"FTD club a\",\n    \"team_id\": \"184090105\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"21:10:41 PDT\",\n    \"date\": \"2016-08-28\",\n    \"player_name\": \"prettyhaw\",\n    \"team_name\": \"FTD Club b\",\n    \"team_id\": \"92965969\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"21:10:38 PDT\",\n    \"date\": \"2016-08-28\",\n    \"player_name\": \"sss\",\n    \"team_name\": \"FTD Club b\",\n    \"team_id\": \"92965969\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"17:16:29 PDT\",\n    \"date\": \"2016-08-28\",\n    \"player_name\": \"SumaiL\",\n    \"team_name\": \"Evil Geniuses\",\n    \"team_id\": \"70884685\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"14:07:58 PDT\",\n    \"date\": \"2016-08-28\",\n    \"player_name\": \"Fusheng\",\n    \"team_name\": \"Void Boys\",\n    \"team_id\": \"126441784\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"14:07:55 PDT\",\n    \"date\": \"2016-08-28\",\n    \"player_name\": \"xinq\",\n    \"team_name\": \"Void Boys\",\n    \"team_id\": \"126441784\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"14:06:46 PDT\",\n    \"date\": \"2016-08-28\",\n    \"player_name\": \"OmegaPwner\",\n    \"team_name\": \"Void Boys\",\n    \"team_id\": \"126441784\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"11:48:31 PDT\",\n    \"date\": \"2016-08-28\",\n    \"player_name\": \"s4\",\n    \"team_name\": \"Alliance\",\n    \"team_id\": \"32428445\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"11:41:29 PDT\",\n    \"date\": \"2016-08-28\",\n    \"player_name\": \"DXM\",\n    \"team_name\": \"FTD Club b\",\n    \"team_id\": \"92965969\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"07:16:21 PDT\",\n    \"date\": \"2016-08-28\",\n    \"player_name\": \"Ferrari_430\",\n    \"team_name\": \"Invictus Gaming\",\n    \"team_id\": \"86767173\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"07:10:40 PDT\",\n    \"date\": \"2016-08-28\",\n    \"player_name\": \"Dale*\",\n    \"team_name\": \"Yellow Submarine !\",\n    \"team_id\": \"104070670\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"06:41:28 PDT\",\n    \"date\": \"2016-08-28\",\n    \"player_name\": \"SlashStrike\",\n    \"team_name\": \"Goomba Gaming\",\n    \"team_id\": \"124904609\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"06:01:34 PDT\",\n    \"date\": \"2016-08-28\",\n    \"player_name\": \"876\",\n    \"team_name\": \"Void Boys\",\n    \"team_id\": \"126441784\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"04:29:02 PDT\",\n    \"date\": \"2016-08-28\",\n    \"player_name\": \"Maybe\",\n    \"team_name\": \"LGD-GAMING\",\n    \"team_id\": \"118678359\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"13:14:09 PDT\",\n    \"date\": \"2016-08-27\",\n    \"player_name\": \"Zai\",\n    \"team_name\": \"Evil Geniuses\",\n    \"team_id\": \"70884685\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"12:28:32 PDT\",\n    \"date\": \"2016-08-27\",\n    \"player_name\": \"BuLba\",\n    \"team_name\": \"Team Secret\",\n    \"team_id\": \"5390881\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"12:08:18 PDT\",\n    \"date\": \"2016-08-27\",\n    \"player_name\": \"Fear\",\n    \"team_name\": \"Evil Geniuses\",\n    \"team_id\": \"70884685\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"11:15:10 PDT\",\n    \"date\": \"2016-08-27\",\n    \"player_name\": \"Søgaard\",\n    \"team_name\": \"4Vikings+Dane\",\n    \"team_id\": \"41818582\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"05:56:11 PDT\",\n    \"date\": \"2016-08-27\",\n    \"player_name\": \"Sccc\",\n    \"team_name\": \"Newbee.Young\",\n    \"team_id\": \"89296893\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"19:42:39 PDT\",\n    \"date\": \"2016-08-26\",\n    \"player_name\": \"LaKelz\",\n    \"team_name\": \"Signature.Dota2\",\n    \"team_id\": \"85485252\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"19:42:37 PDT\",\n    \"date\": \"2016-08-26\",\n    \"player_name\": \"aabBAA\",\n    \"team_name\": \"Signature.Dota2\",\n    \"team_id\": \"85485252\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"19:42:33 PDT\",\n    \"date\": \"2016-08-26\",\n    \"player_name\": \"Jabz\",\n    \"team_name\": \"Signature.Dota2\",\n    \"team_id\": \"85485252\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"08:27:07 PDT\",\n    \"date\": \"2016-08-26\",\n    \"player_name\": \"Steffstyle\",\n    \"team_name\": \"COOKISS\",\n    \"team_id\": \"38607887\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"10:52:11 PDT\",\n    \"date\": \"2016-08-25\",\n    \"player_name\": \"Moo\",\n    \"team_name\": \"Digital Chaos\",\n    \"team_id\": \"690740\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"22:57:12 PDT\",\n    \"date\": \"2016-08-24\",\n    \"player_name\": \"Y2K\",\n    \"team_name\": \"_Nas Ne Dogonyat\",\n    \"team_id\": \"117201231\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"04:09:06 PDT\",\n    \"date\": \"2016-08-24\",\n    \"player_name\": \"Moon\",\n    \"team_name\": \"OG Dota2\",\n    \"team_id\": \"100841499\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"02:06:38 PDT\",\n    \"date\": \"2016-08-24\",\n    \"player_name\": \"MidOne\",\n    \"team_name\": \"Fnatic\",\n    \"team_id\": \"66189266\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"02:06:18 PDT\",\n    \"date\": \"2016-08-24\",\n    \"player_name\": \"Cr1t-\",\n    \"team_name\": \"OG Dota2\",\n    \"team_id\": \"100841499\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"01:02:32 PDT\",\n    \"date\": \"2016-08-24\",\n    \"player_name\": \"小郭嘉\",\n    \"team_name\": \"FTD Club b\",\n    \"team_id\": \"92965969\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"00:24:45 PDT\",\n    \"date\": \"2016-08-24\",\n    \"player_name\": \"343\",\n    \"team_name\": \"Fnatic\",\n    \"team_id\": \"66189266\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"13:23:54 PDT\",\n    \"date\": \"2016-08-23\",\n    \"player_name\": \"FLUFFNSTUFF\",\n    \"team_name\": \"EverNovaS\",\n    \"team_id\": \"100600249\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"09:43:49 PDT\",\n    \"date\": \"2016-08-23\",\n    \"player_name\": \"Forev\",\n    \"team_name\": \"MVP Phoenix\",\n    \"team_id\": \"93119769\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"04:13:25 PDT\",\n    \"date\": \"2016-08-23\",\n    \"player_name\": \"Yin\",\n    \"team_name\": \"FTD club a\",\n    \"team_id\": \"184090105\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"04:01:00 PDT\",\n    \"date\": \"2016-08-23\",\n    \"player_name\": \"Windx\",\n    \"team_name\": \"Team Empire\",\n    \"team_id\": \"106285240\",\n    \"action\": \"Automatically dropped (Sub)\"\n  },\n  {\n    \"time\": \"04:01:00 PDT\",\n    \"date\": \"2016-08-23\",\n    \"player_name\": \"Lugia\",\n    \"team_name\": \"CDEC.Avengers\",\n    \"team_id\": \"118344286\",\n    \"action\": \"Automatically dropped (Sub)\"\n  },\n  {\n    \"time\": \"04:01:00 PDT\",\n    \"date\": \"2016-08-23\",\n    \"player_name\": \"xieqifang\",\n    \"team_name\": \"First Departure\",\n    \"team_id\": \"86741690\",\n    \"action\": \"Automatically dropped (Sub)\"\n  },\n  {\n    \"time\": \"04:01:00 PDT\",\n    \"date\": \"2016-08-23\",\n    \"player_name\": \"Beho\",\n    \"team_name\": \"Execration\",\n    \"team_id\": \"91654584\",\n    \"action\": \"Automatically dropped (Sub)\"\n  },\n  {\n    \"time\": \"04:01:00 PDT\",\n    \"date\": \"2016-08-23\",\n    \"player_name\": \"ping\",\n    \"team_name\": \"FTD Club b\",\n    \"team_id\": \"92965969\",\n    \"action\": \"Automatically dropped (Sub)\"\n  },\n  {\n    \"time\": \"04:01:00 PDT\",\n    \"date\": \"2016-08-23\",\n    \"player_name\": \"Zy\",\n    \"team_name\": \"CDEC Gaming\",\n    \"team_id\": \"148539787\",\n    \"action\": \"Automatically dropped (Sub)\"\n  },\n  {\n    \"time\": \"04:01:00 PDT\",\n    \"date\": \"2016-08-23\",\n    \"player_name\": \"USH\",\n    \"team_name\": \"Digital Chaos\",\n    \"team_id\": \"690740\",\n    \"action\": \"Automatically dropped (Sub)\"\n  },\n  {\n    \"time\": \"04:01:00 PDT\",\n    \"date\": \"2016-08-23\",\n    \"player_name\": \"zxyc\",\n    \"team_name\": \"Kingdom DotA~\",\n    \"team_id\": \"5571849\",\n    \"action\": \"Automatically dropped (Sub)\"\n  },\n  {\n    \"time\": \"04:01:00 PDT\",\n    \"date\": \"2016-08-23\",\n    \"player_name\": \"sharingan\",\n    \"team_name\": \"FTD club a\",\n    \"team_id\": \"184090105\",\n    \"action\": \"Automatically dropped (Sub)\"\n  },\n  {\n    \"time\": \"04:01:00 PDT\",\n    \"date\": \"2016-08-23\",\n    \"player_name\": \"Blaze\",\n    \"team_name\": \"Shazam~\",\n    \"team_id\": \"31818853\",\n    \"action\": \"Automatically dropped (Sub)\"\n  },\n  {\n    \"time\": \"04:01:00 PDT\",\n    \"date\": \"2016-08-23\",\n    \"player_name\": \"Key\",\n    \"team_name\": \"Newbee.Young\",\n    \"team_id\": \"89296893\",\n    \"action\": \"Automatically dropped (Sub)\"\n  },\n  {\n    \"time\": \"04:01:00 PDT\",\n    \"date\": \"2016-08-23\",\n    \"player_name\": \"ana\",\n    \"team_name\": \"Invictus Gaming\",\n    \"team_id\": \"86767173\",\n    \"action\": \"Automatically dropped (Sub)\"\n  },\n  {\n    \"time\": \"04:01:00 PDT\",\n    \"date\": \"2016-08-23\",\n    \"player_name\": \"Shion\",\n    \"team_name\": \"Exodus\",\n    \"team_id\": \"193699561\",\n    \"action\": \"Automatically dropped (Sub)\"\n  },\n  {\n    \"time\": \"04:01:00 PDT\",\n    \"date\": \"2016-08-23\",\n    \"player_name\": \"Op\",\n    \"team_name\": \"iG.Vitality\",\n    \"team_id\": \"103039499\",\n    \"action\": \"Automatically dropped (Sub)\"\n  },\n  {\n    \"time\": \"04:01:00 PDT\",\n    \"date\": \"2016-08-23\",\n    \"player_name\": \"DDDDD\",\n    \"team_name\": \"\",\n    \"team_id\": \"151717190\",\n    \"action\": \"Automatically dropped (Sub)\"\n  },\n  {\n    \"time\": \"04:01:00 PDT\",\n    \"date\": \"2016-08-23\",\n    \"player_name\": \"Winter\",\n    \"team_name\": \"Mineski-X\",\n    \"team_id\": \"107462128\",\n    \"action\": \"Automatically dropped (Sub)\"\n  },\n  {\n    \"time\": \"04:01:00 PDT\",\n    \"date\": \"2016-08-23\",\n    \"player_name\": \"Riser\",\n    \"team_name\": \"compLexity Gaming\",\n    \"team_id\": \"28291366\",\n    \"action\": \"Automatically dropped (Sub)\"\n  },\n  {\n    \"time\": \"04:01:00 PDT\",\n    \"date\": \"2016-08-23\",\n    \"player_name\": \"Frempo\",\n    \"team_name\": \"gossip girls ;)\",\n    \"team_id\": \"296985310\",\n    \"action\": \"Automatically dropped (Sub)\"\n  },\n  {\n    \"time\": \"04:01:00 PDT\",\n    \"date\": \"2016-08-23\",\n    \"player_name\": \"Xcalibur\",\n    \"team_name\": \"OG Dota2\",\n    \"team_id\": \"100841499\",\n    \"action\": \"Automatically dropped (Sub)\"\n  },\n  {\n    \"time\": \"04:01:00 PDT\",\n    \"date\": \"2016-08-23\",\n    \"player_name\": \"Beef\",\n    \"team_name\": \"compLexity Gaming\",\n    \"team_id\": \"28291366\",\n    \"action\": \"Automatically dropped (Sub)\"\n  },\n  {\n    \"time\": \"04:01:00 PDT\",\n    \"date\": \"2016-08-23\",\n    \"player_name\": \"Klo\",\n    \"team_name\": \"TNC Pro Team\",\n    \"team_id\": \"173476224\",\n    \"action\": \"Automatically dropped (Sub)\"\n  },\n  {\n    \"time\": \"04:01:00 PDT\",\n    \"date\": \"2016-08-23\",\n    \"player_name\": \"XuaN\",\n    \"team_name\": \"iG.Vitality\",\n    \"team_id\": \"103039499\",\n    \"action\": \"Automatically dropped (Sub)\"\n  },\n  {\n    \"time\": \"04:01:00 PDT\",\n    \"date\": \"2016-08-23\",\n    \"player_name\": \"JessieVash*\",\n    \"team_name\": \"Mineski.Sports5\",\n    \"team_id\": \"86485206\",\n    \"action\": \"Automatically dropped (Sub)\"\n  },\n  {\n    \"time\": \"04:01:00 PDT\",\n    \"date\": \"2016-08-23\",\n    \"player_name\": \"470\",\n    \"team_name\": \"EarthHippo\",\n    \"team_id\": \"165286316\",\n    \"action\": \"Automatically dropped (Sub)\"\n  },\n  {\n    \"time\": \"04:01:00 PDT\",\n    \"date\": \"2016-08-23\",\n    \"player_name\": \"yw\",\n    \"team_name\": \"_PowerRangers\",\n    \"team_id\": \"149591474\",\n    \"action\": \"Automatically dropped (Sub)\"\n  },\n  {\n    \"time\": \"04:01:00 PDT\",\n    \"date\": \"2016-08-23\",\n    \"player_name\": \"Fogged\",\n    \"team_name\": \"Vegetables Esports Club\",\n    \"team_id\": \"59457413\",\n    \"action\": \"Automatically dropped (Sub)\"\n  },\n  {\n    \"time\": \"04:01:00 PDT\",\n    \"date\": \"2016-08-23\",\n    \"player_name\": \"Adobe\",\n    \"team_name\": \"Void Boys\",\n    \"team_id\": \"126441784\",\n    \"action\": \"Automatically dropped (Sub)\"\n  },\n  {\n    \"time\": \"04:01:00 PDT\",\n    \"date\": \"2016-08-23\",\n    \"player_name\": \"-Zz\",\n    \"team_name\": \"ThundeRobot Gaming\",\n    \"team_id\": \"132418713\",\n    \"action\": \"Automatically dropped (Sub)\"\n  },\n  {\n    \"time\": \"04:01:00 PDT\",\n    \"date\": \"2016-08-23\",\n    \"player_name\": \"Kecik Imba\",\n    \"team_name\": \"Mineski-X\",\n    \"team_id\": \"107462128\",\n    \"action\": \"Automatically dropped (Sub)\"\n  },\n  {\n    \"time\": \"04:01:00 PDT\",\n    \"date\": \"2016-08-23\",\n    \"player_name\": \"Sep\",\n    \"team_name\": \"LGD-GAMING\",\n    \"team_id\": \"118678359\",\n    \"action\": \"Automatically dropped (Sub)\"\n  },\n  {\n    \"time\": \"04:01:00 PDT\",\n    \"date\": \"2016-08-23\",\n    \"player_name\": \"Roddgee\",\n    \"team_name\": \"Orange.Taring\",\n    \"team_id\": \"121052479\",\n    \"action\": \"Automatically dropped (Sub)\"\n  },\n  {\n    \"time\": \"04:01:00 PDT\",\n    \"date\": \"2016-08-23\",\n    \"player_name\": \"Gui\",\n    \"team_name\": \"paiN Gaming\",\n    \"team_id\": \"164113247\",\n    \"action\": \"Automatically dropped (Sub)\"\n  },\n  {\n    \"time\": \"04:01:00 PDT\",\n    \"date\": \"2016-08-23\",\n    \"player_name\": \"MorEnCce\",\n    \"team_name\": \"Energy Pacemaker gaming\",\n    \"team_id\": \"114845159\",\n    \"action\": \"Automatically dropped (Sub)\"\n  },\n  {\n    \"time\": \"04:01:00 PDT\",\n    \"date\": \"2016-08-23\",\n    \"player_name\": \"FeiMao\",\n    \"team_name\": \"Signature.Dota2\",\n    \"team_id\": \"85485252\",\n    \"action\": \"Automatically dropped (Sub)\"\n  },\n  {\n    \"time\": \"04:01:00 PDT\",\n    \"date\": \"2016-08-23\",\n    \"player_name\": \"Yang\",\n    \"team_name\": \"Vici_Gaming Reborn\",\n    \"team_id\": \"128513043\",\n    \"action\": \"Automatically dropped (Sub)\"\n  },\n  {\n    \"time\": \"04:01:00 PDT\",\n    \"date\": \"2016-08-23\",\n    \"player_name\": \"仔仔\",\n    \"team_name\": \"the wings gaming\",\n    \"team_id\": \"111114687\",\n    \"action\": \"Automatically dropped (Sub)\"\n  },\n  {\n    \"time\": \"04:01:00 PDT\",\n    \"date\": \"2016-08-23\",\n    \"player_name\": \"ifrit\",\n    \"team_name\": \"EverNovaS\",\n    \"team_id\": \"100600249\",\n    \"action\": \"Automatically dropped (Sub)\"\n  },\n  {\n    \"time\": \"04:01:00 PDT\",\n    \"date\": \"2016-08-23\",\n    \"player_name\": \"Docy\",\n    \"team_name\": \"GUS-GAMING.COM\",\n    \"team_id\": \"42475673\",\n    \"action\": \"Automatically dropped (Sub)\"\n  },\n  {\n    \"time\": \"03:04:43 PDT\",\n    \"date\": \"2016-08-23\",\n    \"player_name\": \"MeTTpuM\",\n    \"team_name\": \"FlipSid3 Tactics\",\n    \"team_id\": \"11550182\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"02:30:51 PDT\",\n    \"date\": \"2016-08-23\",\n    \"player_name\": \"Ran\",\n    \"team_name\": \"FTD Club b\",\n    \"team_id\": \"92965969\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"01:55:16 PDT\",\n    \"date\": \"2016-08-23\",\n    \"player_name\": \"uuu9\",\n    \"team_name\": \"TongFu|\",\n    \"team_id\": \"88521435\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"01:50:47 PDT\",\n    \"date\": \"2016-08-23\",\n    \"player_name\": \"kabu\",\n    \"team_name\": \"TongFu|\",\n    \"team_id\": \"88521435\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"01:47:28 PDT\",\n    \"date\": \"2016-08-23\",\n    \"player_name\": \"Faith\",\n    \"team_name\": \"TongFu|\",\n    \"team_id\": \"88521435\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"01:44:10 PDT\",\n    \"date\": \"2016-08-23\",\n    \"player_name\": \"lpc\",\n    \"team_name\": \"TongFu|\",\n    \"team_id\": \"88521435\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"01:18:04 PDT\",\n    \"date\": \"2016-08-23\",\n    \"player_name\": \"ddr\",\n    \"team_name\": \"TongFu|\",\n    \"team_id\": \"88521435\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"14:18:38 PDT\",\n    \"date\": \"2016-08-22\",\n    \"player_name\": \"747\",\n    \"team_name\": \"Kingdom DotA~\",\n    \"team_id\": \"5571849\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"13:47:16 PDT\",\n    \"date\": \"2016-08-22\",\n    \"player_name\": \"futzeh\",\n    \"team_name\": \"EarthHippo\",\n    \"team_id\": \"165286316\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"13:47:13 PDT\",\n    \"date\": \"2016-08-22\",\n    \"player_name\": \"RvP\",\n    \"team_name\": \"EarthHippo\",\n    \"team_id\": \"165286316\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"13:47:10 PDT\",\n    \"date\": \"2016-08-22\",\n    \"player_name\": \"Jane XO\",\n    \"team_name\": \"EarthHippo\",\n    \"team_id\": \"165286316\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"13:47:07 PDT\",\n    \"date\": \"2016-08-22\",\n    \"player_name\": \"Funzii\",\n    \"team_name\": \"EarthHippo\",\n    \"team_id\": \"165286316\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"13:47:05 PDT\",\n    \"date\": \"2016-08-22\",\n    \"player_name\": \"Eosin\",\n    \"team_name\": \"EarthHippo\",\n    \"team_id\": \"165286316\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"10:24:48 PDT\",\n    \"date\": \"2016-08-22\",\n    \"player_name\": \"boris\",\n    \"team_name\": \"wonder wolfs :v\",\n    \"team_id\": \"21604967\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"07:51:01 PDT\",\n    \"date\": \"2016-08-22\",\n    \"player_name\": \"Eagle\",\n    \"team_name\": \"Team Freedom Dota 2\",\n    \"team_id\": \"86715129\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"07:50:59 PDT\",\n    \"date\": \"2016-08-22\",\n    \"player_name\": \"ixmike88\",\n    \"team_name\": \"Team Freedom Dota 2\",\n    \"team_id\": \"86715129\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"02:50:09 PDT\",\n    \"date\": \"2016-08-22\",\n    \"player_name\": \"Ame\",\n    \"team_name\": \"\",\n    \"team_id\": \"151717190\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"02:11:37 PDT\",\n    \"date\": \"2016-08-22\",\n    \"player_name\": \"Icy\",\n    \"team_name\": \"FTD club a\",\n    \"team_id\": \"184090105\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"01:59:54 PDT\",\n    \"date\": \"2016-08-22\",\n    \"player_name\": \"Solen\",\n    \"team_name\": \"London Conspiracy Dota2\",\n    \"team_id\": \"106064005\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"23:03:35 PDT\",\n    \"date\": \"2016-08-21\",\n    \"player_name\": \"Eyyou\",\n    \"team_name\": \"TNC Pro Team\",\n    \"team_id\": \"173476224\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"17:14:57 PDT\",\n    \"date\": \"2016-08-21\",\n    \"player_name\": \"wwd\",\n    \"team_name\": \"gossip girls ;)\",\n    \"team_id\": \"296985310\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"06:58:29 PDT\",\n    \"date\": \"2016-08-21\",\n    \"player_name\": \"Ghostik\",\n    \"team_name\": \"Fantastic.Five'\",\n    \"team_id\": \"76600360\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"06:58:26 PDT\",\n    \"date\": \"2016-08-21\",\n    \"player_name\": \"XBOCT\",\n    \"team_name\": \"Fantastic.Five'\",\n    \"team_id\": \"76600360\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"22:02:12 PDT\",\n    \"date\": \"2016-08-20\",\n    \"player_name\": \"KaNG\",\n    \"team_name\": \"Mineski-X\",\n    \"team_id\": \"107462128\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"22:02:07 PDT\",\n    \"date\": \"2016-08-20\",\n    \"player_name\": \"NiCx  `\",\n    \"team_name\": \"Mineski-X\",\n    \"team_id\": \"107462128\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"20:29:14 PDT\",\n    \"date\": \"2016-08-20\",\n    \"player_name\": \"Shiki\",\n    \"team_name\": \"\",\n    \"team_id\": \"151717190\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"19:13:44 PDT\",\n    \"date\": \"2016-08-20\",\n    \"player_name\": \"jdh\",\n    \"team_name\": \"Vici Gaming\",\n    \"team_id\": \"100812084\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"09:50:38 PDT\",\n    \"date\": \"2016-08-20\",\n    \"player_name\": \"Agressif\",\n    \"team_name\": \"LGD-GAMING\",\n    \"team_id\": \"118678359\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"04:30:44 PDT\",\n    \"date\": \"2016-08-20\",\n    \"player_name\": \"Vasiliy\",\n    \"team_name\": \"Prodota GaminG\",\n    \"team_id\": \"114048579\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"04:16:33 PDT\",\n    \"date\": \"2016-08-20\",\n    \"player_name\": \"Arszeeq\",\n    \"team_name\": \"Prodota GaminG\",\n    \"team_id\": \"114048579\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"04:16:29 PDT\",\n    \"date\": \"2016-08-20\",\n    \"player_name\": \"UnderShock\",\n    \"team_name\": \"Prodota GaminG\",\n    \"team_id\": \"114048579\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"04:16:25 PDT\",\n    \"date\": \"2016-08-20\",\n    \"player_name\": \"RodjER\",\n    \"team_name\": \"Prodota GaminG\",\n    \"team_id\": \"114048579\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"04:05:52 PDT\",\n    \"date\": \"2016-08-20\",\n    \"player_name\": \"nb\",\n    \"team_name\": \"Team-Rave\",\n    \"team_id\": \"91443418\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"04:05:50 PDT\",\n    \"date\": \"2016-08-20\",\n    \"player_name\": \"derp\",\n    \"team_name\": \"Team-Rave\",\n    \"team_id\": \"91443418\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"03:58:28 PDT\",\n    \"date\": \"2016-08-20\",\n    \"player_name\": \"Eskillz\",\n    \"team_name\": \"COOKISS\",\n    \"team_id\": \"38607887\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"03:49:33 PDT\",\n    \"date\": \"2016-08-20\",\n    \"player_name\": \"Scabo\",\n    \"team_name\": \"Goomba Gaming\",\n    \"team_id\": \"124904609\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"01:59:51 PDT\",\n    \"date\": \"2016-08-20\",\n    \"player_name\": \"ManTou\",\n    \"team_name\": \"DrinkingBoys\",\n    \"team_id\": \"116030980\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"01:44:48 PDT\",\n    \"date\": \"2016-08-20\",\n    \"player_name\": \"Net\",\n    \"team_name\": \"Fnatic\",\n    \"team_id\": \"66189266\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"00:14:19 PDT\",\n    \"date\": \"2016-08-20\",\n    \"player_name\": \"Sam H\",\n    \"team_name\": \"TNC Pro Team\",\n    \"team_id\": \"173476224\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"22:23:20 PDT\",\n    \"date\": \"2016-08-19\",\n    \"player_name\": \"Benhur\",\n    \"team_name\": \"Mineski.Sports5\",\n    \"team_id\": \"86485206\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"20:04:08 PDT\",\n    \"date\": \"2016-08-19\",\n    \"player_name\": \"ryOyr\",\n    \"team_name\": \"Team-Rave\",\n    \"team_id\": \"91443418\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"19:38:38 PDT\",\n    \"date\": \"2016-08-19\",\n    \"player_name\": \"Meracle\",\n    \"team_name\": \"First Departure\",\n    \"team_id\": \"86741690\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"18:54:04 PDT\",\n    \"date\": \"2016-08-19\",\n    \"player_name\": \"1437\",\n    \"team_name\": \"Team Secret\",\n    \"team_id\": \"5390881\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"18:30:44 PDT\",\n    \"date\": \"2016-08-19\",\n    \"player_name\": \"Demon\",\n    \"team_name\": \"TNC Pro Team\",\n    \"team_id\": \"173476224\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"18:01:05 PDT\",\n    \"date\": \"2016-08-19\",\n    \"player_name\": \"Pablo\",\n    \"team_name\": \"COOKISS\",\n    \"team_id\": \"38607887\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"17:43:46 PDT\",\n    \"date\": \"2016-08-19\",\n    \"player_name\": \"Loomdun\",\n    \"team_name\": \"Exodus\",\n    \"team_id\": \"193699561\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"17:20:14 PDT\",\n    \"date\": \"2016-08-19\",\n    \"player_name\": \"Aui_2000\",\n    \"team_name\": \"Team Secret\",\n    \"team_id\": \"5390881\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"16:56:12 PDT\",\n    \"date\": \"2016-08-19\",\n    \"player_name\": \"Raven\",\n    \"team_name\": \"TNC Pro Team\",\n    \"team_id\": \"173476224\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"16:32:02 PDT\",\n    \"date\": \"2016-08-19\",\n    \"player_name\": \"Bokerino\",\n    \"team_name\": \"Mineski.Sports5\",\n    \"team_id\": \"86485206\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"16:27:25 PDT\",\n    \"date\": \"2016-08-19\",\n    \"player_name\": \"Kuku\",\n    \"team_name\": \"TNC Pro Team\",\n    \"team_id\": \"173476224\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"15:52:17 PDT\",\n    \"date\": \"2016-08-19\",\n    \"player_name\": \"Butterfly\",\n    \"team_name\": \"TEAM Ti\",\n    \"team_id\": \"100737431\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"15:52:15 PDT\",\n    \"date\": \"2016-08-19\",\n    \"player_name\": \"Qing\",\n    \"team_name\": \"TEAM Ti\",\n    \"team_id\": \"100737431\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"15:52:11 PDT\",\n    \"date\": \"2016-08-19\",\n    \"player_name\": \"Sunshine\",\n    \"team_name\": \"TEAM Ti\",\n    \"team_id\": \"100737431\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"15:52:08 PDT\",\n    \"date\": \"2016-08-19\",\n    \"player_name\": \"Shota\",\n    \"team_name\": \"TEAM Ti\",\n    \"team_id\": \"100737431\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"15:51:19 PDT\",\n    \"date\": \"2016-08-19\",\n    \"player_name\": \"美东小蝴蝶\",\n    \"team_name\": \"TEAM Ti\",\n    \"team_id\": \"100737431\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"15:09:26 PDT\",\n    \"date\": \"2016-08-19\",\n    \"player_name\": \"Five\",\n    \"team_name\": \"COOKISS\",\n    \"team_id\": \"38607887\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"15:03:57 PDT\",\n    \"date\": \"2016-08-19\",\n    \"player_name\": \"xuan\",\n    \"team_name\": \"EverNova\",\n    \"team_id\": \"124706060\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"15:02:27 PDT\",\n    \"date\": \"2016-08-19\",\n    \"player_name\": \"Mavav\",\n    \"team_name\": \"COOKISS\",\n    \"team_id\": \"38607887\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"14:29:33 PDT\",\n    \"date\": \"2016-08-19\",\n    \"player_name\": \"Jericho\",\n    \"team_name\": \"Not Today !\",\n    \"team_id\": \"88358606\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"14:29:21 PDT\",\n    \"date\": \"2016-08-19\",\n    \"player_name\": \"Kingteka\",\n    \"team_name\": \"Not Today !\",\n    \"team_id\": \"88358606\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"14:29:10 PDT\",\n    \"date\": \"2016-08-19\",\n    \"player_name\": \"Benjaz\",\n    \"team_name\": \"Not Today !\",\n    \"team_id\": \"88358606\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"13:05:03 PDT\",\n    \"date\": \"2016-08-19\",\n    \"player_name\": \"Vroksnak\",\n    \"team_name\": \"4Vikings+Dane\",\n    \"team_id\": \"41818582\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"12:54:11 PDT\",\n    \"date\": \"2016-08-19\",\n    \"player_name\": \"okcya\",\n    \"team_name\": \"OOGWAY\",\n    \"team_id\": \"41246809\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"12:29:45 PDT\",\n    \"date\": \"2016-08-19\",\n    \"player_name\": \"mlwhisper\",\n    \"team_name\": \"OOGWAY\",\n    \"team_id\": \"41246809\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"12:20:31 PDT\",\n    \"date\": \"2016-08-19\",\n    \"player_name\": \"EternaLEnVy\",\n    \"team_name\": \"Team Secret\",\n    \"team_id\": \"5390881\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"11:52:53 PDT\",\n    \"date\": \"2016-08-19\",\n    \"player_name\": \"shakir4xd\",\n    \"team_name\": \"CNB e-Sports\",\n    \"team_id\": \"22454744\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"11:52:50 PDT\",\n    \"date\": \"2016-08-19\",\n    \"player_name\": \"Ned\",\n    \"team_name\": \"CNB e-Sports\",\n    \"team_id\": \"22454744\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"11:52:46 PDT\",\n    \"date\": \"2016-08-19\",\n    \"player_name\": \"FuckinEh\",\n    \"team_name\": \"CNB e-Sports\",\n    \"team_id\": \"22454744\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"11:52:41 PDT\",\n    \"date\": \"2016-08-19\",\n    \"player_name\": \"Tale\",\n    \"team_name\": \"CNB e-Sports\",\n    \"team_id\": \"22454744\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"11:52:37 PDT\",\n    \"date\": \"2016-08-19\",\n    \"player_name\": \"guipepe_420\",\n    \"team_name\": \"CNB e-Sports\",\n    \"team_id\": \"22454744\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"10:20:14 PDT\",\n    \"date\": \"2016-08-19\",\n    \"player_name\": \"rapppy\",\n    \"team_name\": \"Team-Rave\",\n    \"team_id\": \"91443418\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"10:13:38 PDT\",\n    \"date\": \"2016-08-19\",\n    \"player_name\": \"Ax.Mo\",\n    \"team_name\": \"Prodota GaminG\",\n    \"team_id\": \"114048579\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"10:13:37 PDT\",\n    \"date\": \"2016-08-19\",\n    \"player_name\": \"Sh4dowehhh\",\n    \"team_name\": \"Prodota GaminG\",\n    \"team_id\": \"114048579\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"09:21:09 PDT\",\n    \"date\": \"2016-08-19\",\n    \"player_name\": \"MP\",\n    \"team_name\": \"MVP Phoenix\",\n    \"team_id\": \"93119769\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"07:02:58 PDT\",\n    \"date\": \"2016-08-19\",\n    \"player_name\": \"SunBhie\",\n    \"team_name\": \"Team Freedom Dota 2\",\n    \"team_id\": \"86715129\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"05:47:54 PDT\",\n    \"date\": \"2016-08-19\",\n    \"player_name\": \"Skiter.Oyasumi\",\n    \"team_name\": \"Goomba Gaming\",\n    \"team_id\": \"124904609\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"05:28:35 PDT\",\n    \"date\": \"2016-08-19\",\n    \"player_name\": \"weddingcrash\",\n    \"team_name\": \"First Departure\",\n    \"team_id\": \"86741690\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"04:47:59 PDT\",\n    \"date\": \"2016-08-19\",\n    \"player_name\": \"Goblak\",\n    \"team_name\": \"Team. Spirit\",\n    \"team_id\": \"113863940\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"04:47:55 PDT\",\n    \"date\": \"2016-08-19\",\n    \"player_name\": \"Funn1k\",\n    \"team_name\": \"Team. Spirit\",\n    \"team_id\": \"113863940\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"04:47:53 PDT\",\n    \"date\": \"2016-08-19\",\n    \"player_name\": \"Illidan\",\n    \"team_name\": \"Team. Spirit\",\n    \"team_id\": \"113863940\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"04:27:50 PDT\",\n    \"date\": \"2016-08-19\",\n    \"player_name\": \"Fng\",\n    \"team_name\": \"Virtus.pro\",\n    \"team_id\": \"94049589\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"03:34:00 PDT\",\n    \"date\": \"2016-08-19\",\n    \"player_name\": \"Женя\",\n    \"team_name\": \"Polarity Dota 2\",\n    \"team_id\": \"88984735\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"03:18:38 PDT\",\n    \"date\": \"2016-08-19\",\n    \"player_name\": \"No[o]ne-\",\n    \"team_name\": \"Vega Squadron\",\n    \"team_id\": \"91460772\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"03:17:32 PDT\",\n    \"date\": \"2016-08-19\",\n    \"player_name\": \"ALWAYSWANNAFLY\",\n    \"team_name\": \"Team. Spirit\",\n    \"team_id\": \"113863940\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"03:07:09 PDT\",\n    \"date\": \"2016-08-19\",\n    \"player_name\": \"Solo\",\n    \"team_name\": \"Vega Squadron\",\n    \"team_id\": \"91460772\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"03:06:50 PDT\",\n    \"date\": \"2016-08-19\",\n    \"player_name\": \"G\",\n    \"team_name\": \"Virtus.pro\",\n    \"team_id\": \"94049589\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"03:06:11 PDT\",\n    \"date\": \"2016-08-19\",\n    \"player_name\": \"Iceberg\",\n    \"team_name\": \"Team. Spirit\",\n    \"team_id\": \"113863940\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"02:42:23 PDT\",\n    \"date\": \"2016-08-19\",\n    \"player_name\": \"MyPro\",\n    \"team_name\": \"Signature.Dota2\",\n    \"team_id\": \"85485252\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"02:42:09 PDT\",\n    \"date\": \"2016-08-19\",\n    \"player_name\": \"Boombell\",\n    \"team_name\": \"Signature.Dota2\",\n    \"team_id\": \"85485252\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"02:41:29 PDT\",\n    \"date\": \"2016-08-19\",\n    \"player_name\": \"ALOHADANCE\",\n    \"team_name\": \"Virtus.pro\",\n    \"team_id\": \"94049589\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"02:36:38 PDT\",\n    \"date\": \"2016-08-19\",\n    \"player_name\": \"canceL^^\",\n    \"team_name\": \"Kaipi\",\n    \"team_id\": \"88719902\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"02:15:18 PDT\",\n    \"date\": \"2016-08-19\",\n    \"player_name\": \"Cast\",\n    \"team_name\": \"Mineski.Sports5\",\n    \"team_id\": \"86485206\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"02:13:04 PDT\",\n    \"date\": \"2016-08-19\",\n    \"player_name\": \"JoHnNy\",\n    \"team_name\": \"Mineski-X\",\n    \"team_id\": \"107462128\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"02:09:59 PDT\",\n    \"date\": \"2016-08-19\",\n    \"player_name\": \"DkPhobos\",\n    \"team_name\": \"Polarity Dota 2\",\n    \"team_id\": \"88984735\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"02:05:59 PDT\",\n    \"date\": \"2016-08-19\",\n    \"player_name\": \"Silent\",\n    \"team_name\": \"Virtus.pro\",\n    \"team_id\": \"94049589\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"02:01:34 PDT\",\n    \"date\": \"2016-08-19\",\n    \"player_name\": \"9pasha\",\n    \"team_name\": \"Polarity Dota 2\",\n    \"team_id\": \"88984735\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"01:57:51 PDT\",\n    \"date\": \"2016-08-19\",\n    \"player_name\": \"Lil\",\n    \"team_name\": \"Polarity Dota 2\",\n    \"team_id\": \"88984735\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"01:56:01 PDT\",\n    \"date\": \"2016-08-19\",\n    \"player_name\": \"Seleri\",\n    \"team_name\": \"Goomba Gaming\",\n    \"team_id\": \"124904609\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"01:43:09 PDT\",\n    \"date\": \"2016-08-19\",\n    \"player_name\": \"xNova\",\n    \"team_name\": \"Mineski-X\",\n    \"team_id\": \"107462128\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"01:06:53 PDT\",\n    \"date\": \"2016-08-19\",\n    \"player_name\": \"DJ\",\n    \"team_name\": \"Fnatic\",\n    \"team_id\": \"66189266\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"00:55:25 PDT\",\n    \"date\": \"2016-08-19\",\n    \"player_name\": \"Pingvincek\",\n    \"team_name\": \"The Imperial\",\n    \"team_id\": \"23883296\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"00:34:23 PDT\",\n    \"date\": \"2016-08-19\",\n    \"player_name\": \"Scandal\",\n    \"team_name\": \"Team Empire\",\n    \"team_id\": \"106285240\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"23:18:51 PDT\",\n    \"date\": \"2016-08-18\",\n    \"player_name\": \"Rr\",\n    \"team_name\": \"Execration\",\n    \"team_id\": \"91654584\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"23:18:48 PDT\",\n    \"date\": \"2016-08-18\",\n    \"player_name\": \"Nando\",\n    \"team_name\": \"Execration\",\n    \"team_id\": \"91654584\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"21:13:03 PDT\",\n    \"date\": \"2016-08-18\",\n    \"player_name\": \"Yawar\",\n    \"team_name\": \"EverNovaS\",\n    \"team_id\": \"100600249\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"20:32:13 PDT\",\n    \"date\": \"2016-08-18\",\n    \"player_name\": \"Ho_OK\",\n    \"team_name\": \"EverNova\",\n    \"team_id\": \"124706060\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"20:32:12 PDT\",\n    \"date\": \"2016-08-18\",\n    \"player_name\": \"mercy plz\",\n    \"team_name\": \"EverNova\",\n    \"team_id\": \"124706060\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"20:32:09 PDT\",\n    \"date\": \"2016-08-18\",\n    \"player_name\": \"Let Me Go\",\n    \"team_name\": \"EverNova\",\n    \"team_id\": \"124706060\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"20:32:04 PDT\",\n    \"date\": \"2016-08-18\",\n    \"player_name\": \"DurpDurp\",\n    \"team_name\": \"EverNova\",\n    \"team_id\": \"124706060\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"20:21:54 PDT\",\n    \"date\": \"2016-08-18\",\n    \"player_name\": \"NJ\",\n    \"team_name\": \"Orange.Taring\",\n    \"team_id\": \"121052479\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"20:15:29 PDT\",\n    \"date\": \"2016-08-18\",\n    \"player_name\": \"Jubei\",\n    \"team_name\": \"Team Freedom Dota 2\",\n    \"team_id\": \"86715129\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"20:13:31 PDT\",\n    \"date\": \"2016-08-18\",\n    \"player_name\": \"Jesus \\\"Ztok\\\" Carhuaricra Soria\",\n    \"team_name\": \"wonder wolfs :v\",\n    \"team_id\": \"21604967\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"20:02:31 PDT\",\n    \"date\": \"2016-08-18\",\n    \"player_name\": \"koushu\",\n    \"team_name\": \"wonder wolfs :v\",\n    \"team_id\": \"21604967\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"19:59:18 PDT\",\n    \"date\": \"2016-08-18\",\n    \"player_name\": \"FLee\",\n    \"team_name\": \"Team Freedom Dota 2\",\n    \"team_id\": \"86715129\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"19:51:44 PDT\",\n    \"date\": \"2016-08-18\",\n    \"player_name\": \"monkeys-forever\",\n    \"team_name\": \"perky pepperonis\",\n    \"team_id\": \"82051518\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"19:35:30 PDT\",\n    \"date\": \"2016-08-18\",\n    \"player_name\": \"Eden\",\n    \"team_name\": \"_Nas Ne Dogonyat\",\n    \"team_id\": \"117201231\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"19:31:12 PDT\",\n    \"date\": \"2016-08-18\",\n    \"player_name\": \"Jeyo\",\n    \"team_name\": \"Team-Rave\",\n    \"team_id\": \"91443418\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"19:29:02 PDT\",\n    \"date\": \"2016-08-18\",\n    \"player_name\": \"@yxl\",\n    \"team_name\": \"CDEC.Avengers\",\n    \"team_id\": \"118344286\",\n    \"action\": \"Released from team\"\n  },\n  {\n    \"time\": \"19:27:55 PDT\",\n    \"date\": \"2016-08-18\",\n    \"player_name\": \"MSS\",\n    \"team_name\": \"Shazam~\",\n    \"team_id\": \"31818853\",\n    \"action\": \"Left the team\"\n  },\n  {\n    \"time\": \"19:22:28 PDT\",\n    \"date\": \"2016-08-18\",\n    \"player_name\": \"SVG\",\n    \"team_name\": \"Evil Geniuses\",\n    \"team_id\": \"70884685\",\n    \"action\": \"Left the team\"\n  }\n]"
+[
+  {
+    "time": "06:48:21 PDT",
+    "date": "2016-09-07",
+    "player_name": "Qing",
+    "team_name": "TEAM Ti",
+    "team_id": "100737431",
+    "action": "Joined the Team"
+  },
+  {
+    "time": "03:28:31 PDT",
+    "date": "2016-09-07",
+    "player_name": "old chicken",
+    "team_name": "EHOME",
+    "team_id": "163227125",
+    "action": "Joined the Team"
+  },
+  {
+    "time": "02:35:26 PDT",
+    "date": "2016-09-07",
+    "player_name": "Sylar",
+    "team_name": "EHOME",
+    "team_id": "163227125",
+    "action": "Joined the Team"
+  },
+  {
+    "time": "01:43:14 PDT",
+    "date": "2016-09-07",
+    "player_name": "old eLeVeN",
+    "team_name": "EHOME",
+    "team_id": "163227125",
+    "action": "Joined the Team"
+  },
+  {
+    "time": "15:43:54 PDT",
+    "date": "2016-09-06",
+    "player_name": "InJuly",
+    "team_name": "iG.Vitality",
+    "team_id": "103039499",
+    "action": "Joined the Team"
+  },
+  {
+    "time": "13:34:11 PDT",
+    "date": "2016-09-06",
+    "player_name": "MJW",
+    "team_name": "Friendship, Dedication, Love",
+    "team_id": "86974263",
+    "action": "Joined the Team"
+  },
+  {
+    "time": "02:01:58 PDT",
+    "date": "2016-09-06",
+    "player_name": "Liquid`JerAx",
+    "team_name": "OG Dota2",
+    "team_id": "100841499",
+    "action": "Joined the Team"
+  },
+  {
+    "time": "23:06:07 PDT",
+    "date": "2016-09-05",
+    "player_name": "shadow",
+    "team_name": "the wings gaming",
+    "team_id": "111114687",
+    "action": "Joined the Team"
+  },
+  {
+    "time": "12:48:26 PDT",
+    "date": "2016-09-05",
+    "player_name": "@dogf1ghts",
+    "team_name": "iG.Vitality",
+    "team_id": "103039499",
+    "action": "Joined the Team"
+  },
+  {
+    "time": "10:58:32 PDT",
+    "date": "2016-09-05",
+    "player_name": "Yuno",
+    "team_name": "iG.Vitality",
+    "team_id": "103039499",
+    "action": "Joined the Team"
+  },
+  {
+    "time": "10:24:34 PDT",
+    "date": "2016-09-05",
+    "player_name": "Ghostik",
+    "team_name": "Team Empire",
+    "team_id": "106285240",
+    "action": "Joined the Team"
+  },
+  {
+    "time": "10:06:37 PDT",
+    "date": "2016-09-05",
+    "player_name": "Fran",
+    "team_name": "iG.Vitality",
+    "team_id": "103039499",
+    "action": "Joined the Team"
+  },
+  {
+    "time": "10:05:22 PDT",
+    "date": "2016-09-05",
+    "player_name": "super",
+    "team_name": "iG.Vitality",
+    "team_id": "103039499",
+    "action": "Joined the Team"
+  },
+  {
+    "time": "09:38:32 PDT",
+    "date": "2016-09-05",
+    "player_name": "MidOne",
+    "team_name": "Team Secret",
+    "team_id": "5390881",
+    "action": "Joined the Team"
+  },
+  {
+    "time": "06:43:19 PDT",
+    "date": "2016-09-05",
+    "player_name": "s4",
+    "team_name": "OG Dota2",
+    "team_id": "100841499",
+    "action": "Joined the Team"
+  },
+  {
+    "time": "06:39:27 PDT",
+    "date": "2016-09-05",
+    "player_name": "ana",
+    "team_name": "OG Dota2",
+    "team_id": "100841499",
+    "action": "Joined the Team"
+  },
+  {
+    "time": "06:24:43 PDT",
+    "date": "2016-09-05",
+    "player_name": "Varizh",
+    "team_name": "Rex Regum QEON",
+    "team_id": "111372926",
+    "action": "Joined the Team"
+  },
+  {
+    "time": "02:59:32 PDT",
+    "date": "2016-09-05",
+    "player_name": "跳刀跳刀丶",
+    "team_name": "the wings gaming",
+    "team_id": "111114687",
+    "action": "Joined the Team"
+  },
+  {
+    "time": "02:24:45 PDT",
+    "date": "2016-09-05",
+    "player_name": "Faith_bian",
+    "team_name": "the wings gaming",
+    "team_id": "111114687",
+    "action": "Joined the Team"
+  },
+  {
+    "time": "02:16:55 PDT",
+    "date": "2016-09-05",
+    "player_name": "y`",
+    "team_name": "the wings gaming",
+    "team_id": "111114687",
+    "action": "Joined the Team"
+  },
+  {
+    "time": "00:44:52 PDT",
+    "date": "2016-09-05",
+    "player_name": "Rr",
+    "team_name": "Mineski.Sports5",
+    "team_id": "86485206",
+    "action": "Joined the Team"
+  },
+  {
+    "time": "00:43:38 PDT",
+    "date": "2016-09-05",
+    "player_name": "Meracle",
+    "team_name": "Mineski.Sports5",
+    "team_id": "86485206",
+    "action": "Joined the Team"
+  },
+  {
+    "time": "00:42:31 PDT",
+    "date": "2016-09-05",
+    "player_name": "nb",
+    "team_name": "Mineski.Sports5",
+    "team_id": "86485206",
+    "action": "Joined the Team"
+  },
+  {
+    "time": "12:56:43 PDT",
+    "date": "2016-09-04",
+    "player_name": "MP",
+    "team_name": "Team Secret",
+    "team_id": "5390881",
+    "action": "Joined the Team"
+  },
+  {
+    "time": "10:46:32 PDT",
+    "date": "2016-09-04",
+    "player_name": "Bean",
+    "team_name": "Friendship, Dedication, Love",
+    "team_id": "86974263",
+    "action": "Joined the Team"
+  },
+  {
+    "time": "10:46:04 PDT",
+    "date": "2016-09-04",
+    "player_name": "747",
+    "team_name": "Friendship, Dedication, Love",
+    "team_id": "86974263",
+    "action": "Joined the Team"
+  },
+  {
+    "time": "10:45:14 PDT",
+    "date": "2016-09-04",
+    "player_name": "04",
+    "team_name": "Friendship, Dedication, Love",
+    "team_id": "86974263",
+    "action": "Joined the Team"
+  },
+  {
+    "time": "10:44:39 PDT",
+    "date": "2016-09-04",
+    "player_name": "STAN KING",
+    "team_name": "Friendship, Dedication, Love",
+    "team_id": "86974263",
+    "action": "Joined the Team"
+  },
+  {
+    "time": "09:36:16 PDT",
+    "date": "2016-09-04",
+    "player_name": "Forev",
+    "team_name": "Team Secret",
+    "team_id": "5390881",
+    "action": "Joined the Team"
+  },
+  {
+    "time": "21:09:39 PDT",
+    "date": "2016-09-03",
+    "player_name": "Sakula",
+    "team_name": "DrinkingBoys",
+    "team_id": "116030980",
+    "action": "Left the team"
+  },
+  {
+    "time": "19:32:20 PDT",
+    "date": "2016-09-03",
+    "player_name": "sLiCKz",
+    "team_name": "EverNovaS",
+    "team_id": "100600249",
+    "action": "Left the team"
+  },
+  {
+    "time": "19:00:12 PDT",
+    "date": "2016-09-03",
+    "player_name": "PPD",
+    "team_name": "Evil Geniuses",
+    "team_id": "70884685",
+    "action": "Released from team"
+  },
+  {
+    "time": "19:00:05 PDT",
+    "date": "2016-09-03",
+    "player_name": "Universe",
+    "team_name": "Evil Geniuses",
+    "team_id": "70884685",
+    "action": "Released from team"
+  },
+  {
+    "time": "14:17:24 PDT",
+    "date": "2016-09-03",
+    "player_name": "yol",
+    "team_name": "Fantastic.Five'",
+    "team_id": "76600360",
+    "action": "Released from team"
+  },
+  {
+    "time": "14:17:21 PDT",
+    "date": "2016-09-03",
+    "player_name": "633",
+    "team_name": "Fantastic.Five'",
+    "team_id": "76600360",
+    "action": "Released from team"
+  },
+  {
+    "time": "13:41:38 PDT",
+    "date": "2016-09-03",
+    "player_name": "rmn-",
+    "team_name": "Fantastic.Five'",
+    "team_id": "76600360",
+    "action": "Left the team"
+  },
+  {
+    "time": "06:19:32 PDT",
+    "date": "2016-09-03",
+    "player_name": "Liquid`FATA-",
+    "team_name": "Team Liquid",
+    "team_id": "113439358",
+    "action": "Left the team"
+  },
+  {
+    "time": "02:41:37 PDT",
+    "date": "2016-09-03",
+    "player_name": "shadow",
+    "team_name": "the wings gaming",
+    "team_id": "111114687",
+    "action": "Released from team"
+  },
+  {
+    "time": "02:41:35 PDT",
+    "date": "2016-09-03",
+    "player_name": "Faith_bian",
+    "team_name": "the wings gaming",
+    "team_id": "111114687",
+    "action": "Released from team"
+  },
+  {
+    "time": "02:41:32 PDT",
+    "date": "2016-09-03",
+    "player_name": "iceice",
+    "team_name": "the wings gaming",
+    "team_id": "111114687",
+    "action": "Released from team"
+  },
+  {
+    "time": "02:41:29 PDT",
+    "date": "2016-09-03",
+    "player_name": "跳刀跳刀丶",
+    "team_name": "the wings gaming",
+    "team_id": "111114687",
+    "action": "Released from team"
+  },
+  {
+    "time": "02:39:57 PDT",
+    "date": "2016-09-03",
+    "player_name": "y`",
+    "team_name": "the wings gaming",
+    "team_id": "111114687",
+    "action": "Left the team"
+  },
+  {
+    "time": "02:26:54 PDT",
+    "date": "2016-09-03",
+    "player_name": "Kefka",
+    "team_name": "London Conspiracy Dota2",
+    "team_id": "106064005",
+    "action": "Left the team"
+  },
+  {
+    "time": "01:05:08 PDT",
+    "date": "2016-09-03",
+    "player_name": "Lubby",
+    "team_name": "First Departure",
+    "team_id": "86741690",
+    "action": "Released from team"
+  },
+  {
+    "time": "00:27:42 PDT",
+    "date": "2016-09-03",
+    "player_name": "Akke",
+    "team_name": "Alliance",
+    "team_id": "32428445",
+    "action": "Left the team"
+  },
+  {
+    "time": "23:13:30 PDT",
+    "date": "2016-09-02",
+    "player_name": "KaL",
+    "team_name": "First Departure",
+    "team_id": "86741690",
+    "action": "Released from team"
+  },
+  {
+    "time": "23:06:37 PDT",
+    "date": "2016-09-02",
+    "player_name": "Kai",
+    "team_name": "First Departure",
+    "team_id": "86741690",
+    "action": "Released from team"
+  },
+  {
+    "time": "15:15:33 PDT",
+    "date": "2016-09-02",
+    "player_name": "Lil_kin6",
+    "team_name": "paiN Gaming",
+    "team_id": "164113247",
+    "action": "Released from team"
+  },
+  {
+    "time": "15:15:30 PDT",
+    "date": "2016-09-02",
+    "player_name": "4dr",
+    "team_name": "paiN Gaming",
+    "team_id": "164113247",
+    "action": "Released from team"
+  },
+  {
+    "time": "15:12:32 PDT",
+    "date": "2016-09-02",
+    "player_name": "Lanaro",
+    "team_name": "paiN Gaming",
+    "team_id": "164113247",
+    "action": "Released from team"
+  },
+  {
+    "time": "15:10:23 PDT",
+    "date": "2016-09-02",
+    "player_name": "KinGRD",
+    "team_name": "paiN Gaming",
+    "team_id": "164113247",
+    "action": "Released from team"
+  },
+  {
+    "time": "15:08:25 PDT",
+    "date": "2016-09-02",
+    "player_name": "Jubileu",
+    "team_name": "paiN Gaming",
+    "team_id": "164113247",
+    "action": "Released from team"
+  },
+  {
+    "time": "14:40:39 PDT",
+    "date": "2016-09-02",
+    "player_name": "TC",
+    "team_name": "Shazam~",
+    "team_id": "31818853",
+    "action": "Left the team"
+  },
+  {
+    "time": "12:23:18 PDT",
+    "date": "2016-09-02",
+    "player_name": "Nightmare",
+    "team_name": "Not Today !",
+    "team_id": "88358606",
+    "action": "Released from team"
+  },
+  {
+    "time": "11:44:38 PDT",
+    "date": "2016-09-02",
+    "player_name": "Miracle-",
+    "team_name": "OG Dota2",
+    "team_id": "100841499",
+    "action": "Left the team"
+  },
+  {
+    "time": "10:58:16 PDT",
+    "date": "2016-09-02",
+    "player_name": "AdmiralBulldog",
+    "team_name": "Alliance",
+    "team_id": "32428445",
+    "action": "Left the team"
+  },
+  {
+    "time": "09:23:46 PDT",
+    "date": "2016-09-02",
+    "player_name": "Abed",
+    "team_name": "Execration",
+    "team_id": "91654584",
+    "action": "Left the team"
+  },
+  {
+    "time": "08:19:50 PDT",
+    "date": "2016-09-02",
+    "player_name": "Afterlife",
+    "team_name": "Team Empire",
+    "team_id": "106285240",
+    "action": "Left the team"
+  },
+  {
+    "time": "07:27:00 PDT",
+    "date": "2016-09-02",
+    "player_name": "Greedy",
+    "team_name": "Infamous -_^",
+    "team_id": "119631156",
+    "action": "Left the team"
+  },
+  {
+    "time": "06:10:43 PDT",
+    "date": "2016-09-02",
+    "player_name": "goddam",
+    "team_name": "_PowerRangers",
+    "team_id": "149591474",
+    "action": "Released from team"
+  },
+  {
+    "time": "02:41:15 PDT",
+    "date": "2016-09-02",
+    "player_name": "Arteezy",
+    "team_name": "Team Secret",
+    "team_id": "5390881",
+    "action": "Left the team"
+  },
+  {
+    "time": "09:05:22 PDT",
+    "date": "2016-09-01",
+    "player_name": "Biver",
+    "team_name": "London Conspiracy Dota2",
+    "team_id": "106064005",
+    "action": "Left the team"
+  },
+  {
+    "time": "09:04:25 PDT",
+    "date": "2016-09-01",
+    "player_name": "Mawi",
+    "team_name": "4Vikings+Dane",
+    "team_id": "41818582",
+    "action": "Left the team"
+  },
+  {
+    "time": "07:35:58 PDT",
+    "date": "2016-09-01",
+    "player_name": "Syeonix",
+    "team_name": "Orange.Taring",
+    "team_id": "121052479",
+    "action": "Left the team"
+  },
+  {
+    "time": "01:35:08 PDT",
+    "date": "2016-09-01",
+    "player_name": "Ice",
+    "team_name": "Orange.Taring",
+    "team_id": "121052479",
+    "action": "Released from team"
+  },
+  {
+    "time": "18:55:02 PDT",
+    "date": "2016-08-31",
+    "player_name": "Garter",
+    "team_name": "Prodota GaminG",
+    "team_id": "114048579",
+    "action": "Left the team"
+  },
+  {
+    "time": "14:25:04 PDT",
+    "date": "2016-08-31",
+    "player_name": "DuBu",
+    "team_name": "MVP Phoenix",
+    "team_id": "93119769",
+    "action": "Left the team"
+  },
+  {
+    "time": "12:10:05 PDT",
+    "date": "2016-08-31",
+    "player_name": "Ramzes666",
+    "team_name": "Team Empire",
+    "team_id": "106285240",
+    "action": "Left the team"
+  },
+  {
+    "time": "09:35:31 PDT",
+    "date": "2016-08-31",
+    "player_name": "Liquid`JerAx",
+    "team_name": "Team Liquid",
+    "team_id": "113439358",
+    "action": "Left the team"
+  },
+  {
+    "time": "07:44:16 PDT",
+    "date": "2016-08-31",
+    "player_name": "YamateH",
+    "team_name": "Orange.Taring",
+    "team_id": "121052479",
+    "action": "Left the team"
+  },
+  {
+    "time": "07:27:58 PDT",
+    "date": "2016-08-31",
+    "player_name": "Ar1se",
+    "team_name": "_PowerRangers",
+    "team_id": "149591474",
+    "action": "Left the team"
+  },
+  {
+    "time": "07:21:09 PDT",
+    "date": "2016-08-31",
+    "player_name": "Febby",
+    "team_name": "MVP Phoenix",
+    "team_id": "93119769",
+    "action": "Left the team"
+  },
+  {
+    "time": "06:38:06 PDT",
+    "date": "2016-08-31",
+    "player_name": "QO",
+    "team_name": "MVP Phoenix",
+    "team_id": "93119769",
+    "action": "Left the team"
+  },
+  {
+    "time": "04:21:50 PDT",
+    "date": "2016-08-31",
+    "player_name": "Nafari",
+    "team_name": "_Nas Ne Dogonyat",
+    "team_id": "117201231",
+    "action": "Left the team"
+  },
+  {
+    "time": "15:31:09 PDT",
+    "date": "2016-08-30",
+    "player_name": "SCL",
+    "team_name": "_Nas Ne Dogonyat",
+    "team_id": "117201231",
+    "action": "Left the team"
+  },
+  {
+    "time": "14:49:38 PDT",
+    "date": "2016-08-30",
+    "player_name": "Bubu",
+    "team_name": "_Nas Ne Dogonyat",
+    "team_id": "117201231",
+    "action": "Left the team"
+  },
+  {
+    "time": "13:58:43 PDT",
+    "date": "2016-08-30",
+    "player_name": "Chessie",
+    "team_name": "compLexity Gaming",
+    "team_id": "28291366",
+    "action": "Released from team"
+  },
+  {
+    "time": "11:24:25 PDT",
+    "date": "2016-08-30",
+    "player_name": "Varizh",
+    "team_name": "Rex Regum QEON",
+    "team_id": "111372926",
+    "action": "Released from team"
+  },
+  {
+    "time": "09:04:02 PDT",
+    "date": "2016-08-30",
+    "player_name": "m",
+    "team_name": "Energy Pacemaker gaming",
+    "team_id": "114845159",
+    "action": "Released from team"
+  },
+  {
+    "time": "09:03:57 PDT",
+    "date": "2016-08-30",
+    "player_name": "Eu",
+    "team_name": "Energy Pacemaker gaming",
+    "team_id": "114845159",
+    "action": "Released from team"
+  },
+  {
+    "time": "09:03:49 PDT",
+    "date": "2016-08-30",
+    "player_name": "mool",
+    "team_name": "Energy Pacemaker gaming",
+    "team_id": "114845159",
+    "action": "Released from team"
+  },
+  {
+    "time": "09:03:44 PDT",
+    "date": "2016-08-30",
+    "player_name": "Kol",
+    "team_name": "Energy Pacemaker gaming",
+    "team_id": "114845159",
+    "action": "Released from team"
+  },
+  {
+    "time": "09:03:33 PDT",
+    "date": "2016-08-30",
+    "player_name": "Cookie bear",
+    "team_name": "Energy Pacemaker gaming",
+    "team_id": "114845159",
+    "action": "Released from team"
+  },
+  {
+    "time": "08:43:34 PDT",
+    "date": "2016-08-30",
+    "player_name": "FaN",
+    "team_name": "Newbee.Young",
+    "team_id": "89296893",
+    "action": "Released from team"
+  },
+  {
+    "time": "08:43:24 PDT",
+    "date": "2016-08-30",
+    "player_name": "Mrrr",
+    "team_name": "Newbee.Young",
+    "team_id": "89296893",
+    "action": "Released from team"
+  },
+  {
+    "time": "08:43:21 PDT",
+    "date": "2016-08-30",
+    "player_name": "Le",
+    "team_name": "Newbee.Young",
+    "team_id": "89296893",
+    "action": "Left the team"
+  },
+  {
+    "time": "08:43:01 PDT",
+    "date": "2016-08-30",
+    "player_name": "2Lei",
+    "team_name": "Newbee.Young",
+    "team_id": "89296893",
+    "action": "Left the team"
+  },
+  {
+    "time": "08:11:04 PDT",
+    "date": "2016-08-30",
+    "player_name": "Handsken",
+    "team_name": "compLexity Gaming",
+    "team_id": "28291366",
+    "action": "Left the team"
+  },
+  {
+    "time": "07:58:59 PDT",
+    "date": "2016-08-30",
+    "player_name": "Limmp",
+    "team_name": "compLexity Gaming",
+    "team_id": "28291366",
+    "action": "Left the team"
+  },
+  {
+    "time": "07:40:31 PDT",
+    "date": "2016-08-30",
+    "player_name": "Boboka",
+    "team_name": "Invictus Gaming",
+    "team_id": "86767173",
+    "action": "Released from team"
+  },
+  {
+    "time": "07:40:28 PDT",
+    "date": "2016-08-30",
+    "player_name": "Rong",
+    "team_name": "Invictus Gaming",
+    "team_id": "86767173",
+    "action": "Released from team"
+  },
+  {
+    "time": "07:40:22 PDT",
+    "date": "2016-08-30",
+    "player_name": "Xxs",
+    "team_name": "Invictus Gaming",
+    "team_id": "86767173",
+    "action": "Released from team"
+  },
+  {
+    "time": "07:40:18 PDT",
+    "date": "2016-08-30",
+    "player_name": "qd",
+    "team_name": "Invictus Gaming",
+    "team_id": "86767173",
+    "action": "Released from team"
+  },
+  {
+    "time": "07:39:39 PDT",
+    "date": "2016-08-30",
+    "player_name": "yoky-",
+    "team_name": "Virtus.pro",
+    "team_id": "94049589",
+    "action": "Left the team"
+  },
+  {
+    "time": "07:02:10 PDT",
+    "date": "2016-08-30",
+    "player_name": "Q",
+    "team_name": "CDEC Gaming",
+    "team_id": "148539787",
+    "action": "Released from team"
+  },
+  {
+    "time": "07:02:07 PDT",
+    "date": "2016-08-30",
+    "player_name": "Rabbit",
+    "team_name": "CDEC Gaming",
+    "team_id": "148539787",
+    "action": "Released from team"
+  },
+  {
+    "time": "07:02:04 PDT",
+    "date": "2016-08-30",
+    "player_name": "Super",
+    "team_name": "CDEC Gaming",
+    "team_id": "148539787",
+    "action": "Released from team"
+  },
+  {
+    "time": "06:41:51 PDT",
+    "date": "2016-08-30",
+    "player_name": "hym",
+    "team_name": "Vici Gaming",
+    "team_id": "100812084",
+    "action": "Released from team"
+  },
+  {
+    "time": "06:41:49 PDT",
+    "date": "2016-08-30",
+    "player_name": "Cty",
+    "team_name": "Vici Gaming",
+    "team_id": "100812084",
+    "action": "Released from team"
+  },
+  {
+    "time": "06:41:47 PDT",
+    "date": "2016-08-30",
+    "player_name": "rOtk",
+    "team_name": "Vici Gaming",
+    "team_id": "100812084",
+    "action": "Released from team"
+  },
+  {
+    "time": "06:37:00 PDT",
+    "date": "2016-08-30",
+    "player_name": "Xz",
+    "team_name": "",
+    "team_id": "151717190",
+    "action": "Released from team"
+  },
+  {
+    "time": "06:36:57 PDT",
+    "date": "2016-08-30",
+    "player_name": "Demons",
+    "team_name": "",
+    "team_id": "151717190",
+    "action": "Released from team"
+  },
+  {
+    "time": "06:36:55 PDT",
+    "date": "2016-08-30",
+    "player_name": "Inflame",
+    "team_name": "",
+    "team_id": "151717190",
+    "action": "Released from team"
+  },
+  {
+    "time": "06:36:53 PDT",
+    "date": "2016-08-30",
+    "player_name": "Victoria",
+    "team_name": "",
+    "team_id": "151717190",
+    "action": "Released from team"
+  },
+  {
+    "time": "06:31:43 PDT",
+    "date": "2016-08-30",
+    "player_name": "END",
+    "team_name": "Vici_Gaming Reborn",
+    "team_id": "128513043",
+    "action": "Released from team"
+  },
+  {
+    "time": "06:31:41 PDT",
+    "date": "2016-08-30",
+    "player_name": "ddc",
+    "team_name": "Vici_Gaming Reborn",
+    "team_id": "128513043",
+    "action": "Released from team"
+  },
+  {
+    "time": "06:31:35 PDT",
+    "date": "2016-08-30",
+    "player_name": "mikasa",
+    "team_name": "Vici_Gaming Reborn",
+    "team_id": "128513043",
+    "action": "Released from team"
+  },
+  {
+    "time": "06:31:32 PDT",
+    "date": "2016-08-30",
+    "player_name": "fy",
+    "team_name": "Vici_Gaming Reborn",
+    "team_id": "128513043",
+    "action": "Released from team"
+  },
+  {
+    "time": "06:31:19 PDT",
+    "date": "2016-08-30",
+    "player_name": "Nono",
+    "team_name": "Vici_Gaming Reborn",
+    "team_id": "128513043",
+    "action": "Released from team"
+  },
+  {
+    "time": "06:27:51 PDT",
+    "date": "2016-08-30",
+    "player_name": "xiao8",
+    "team_name": "LGD-GAMING",
+    "team_id": "118678359",
+    "action": "Released from team"
+  },
+  {
+    "time": "06:27:49 PDT",
+    "date": "2016-08-30",
+    "player_name": "MMY!",
+    "team_name": "LGD-GAMING",
+    "team_id": "118678359",
+    "action": "Released from team"
+  },
+  {
+    "time": "06:27:47 PDT",
+    "date": "2016-08-30",
+    "player_name": "banana",
+    "team_name": "LGD-GAMING",
+    "team_id": "118678359",
+    "action": "Released from team"
+  },
+  {
+    "time": "06:22:26 PDT",
+    "date": "2016-08-30",
+    "player_name": "old chicken",
+    "team_name": "EHOME",
+    "team_id": "163227125",
+    "action": "Released from team"
+  },
+  {
+    "time": "06:22:22 PDT",
+    "date": "2016-08-30",
+    "player_name": "old eLeVeN",
+    "team_name": "EHOME",
+    "team_id": "163227125",
+    "action": "Released from team"
+  },
+  {
+    "time": "06:22:14 PDT",
+    "date": "2016-08-30",
+    "player_name": "Fenrir",
+    "team_name": "EHOME",
+    "team_id": "163227125",
+    "action": "Released from team"
+  },
+  {
+    "time": "06:22:11 PDT",
+    "date": "2016-08-30",
+    "player_name": "old LaNm",
+    "team_name": "EHOME",
+    "team_id": "163227125",
+    "action": "Released from team"
+  },
+  {
+    "time": "06:21:37 PDT",
+    "date": "2016-08-30",
+    "player_name": "Nofear",
+    "team_name": "Virtus.pro",
+    "team_id": "94049589",
+    "action": "Left the team"
+  },
+  {
+    "time": "06:21:24 PDT",
+    "date": "2016-08-30",
+    "player_name": "super",
+    "team_name": "iG.Vitality",
+    "team_id": "103039499",
+    "action": "Released from team"
+  },
+  {
+    "time": "06:21:16 PDT",
+    "date": "2016-08-30",
+    "player_name": "@dogf1ghts",
+    "team_name": "iG.Vitality",
+    "team_id": "103039499",
+    "action": "Released from team"
+  },
+  {
+    "time": "06:21:14 PDT",
+    "date": "2016-08-30",
+    "player_name": "InJuly",
+    "team_name": "iG.Vitality",
+    "team_id": "103039499",
+    "action": "Released from team"
+  },
+  {
+    "time": "06:21:12 PDT",
+    "date": "2016-08-30",
+    "player_name": "Yuno",
+    "team_name": "iG.Vitality",
+    "team_id": "103039499",
+    "action": "Released from team"
+  },
+  {
+    "time": "06:21:08 PDT",
+    "date": "2016-08-30",
+    "player_name": "Fran",
+    "team_name": "iG.Vitality",
+    "team_id": "103039499",
+    "action": "Released from team"
+  },
+  {
+    "time": "06:18:08 PDT",
+    "date": "2016-08-30",
+    "player_name": "Lin",
+    "team_name": "TongFu|",
+    "team_id": "88521435",
+    "action": "Released from team"
+  },
+  {
+    "time": "05:51:05 PDT",
+    "date": "2016-08-30",
+    "player_name": "June",
+    "team_name": "CDEC.Avengers",
+    "team_id": "119525384",
+    "action": "Released from team"
+  },
+  {
+    "time": "05:50:19 PDT",
+    "date": "2016-08-30",
+    "player_name": "Flyby",
+    "team_name": "CDEC.Avengers",
+    "team_id": "119525384",
+    "action": "Released from team"
+  },
+  {
+    "time": "05:50:14 PDT",
+    "date": "2016-08-30",
+    "player_name": "Xi",
+    "team_name": "CDEC.Avengers",
+    "team_id": "119525384",
+    "action": "Released from team"
+  },
+  {
+    "time": "05:49:30 PDT",
+    "date": "2016-08-30",
+    "player_name": "Monet",
+    "team_name": "CDEC.Avengers",
+    "team_id": "118344286",
+    "action": "Released from team"
+  },
+  {
+    "time": "05:45:29 PDT",
+    "date": "2016-08-30",
+    "player_name": "FT",
+    "team_name": "BraveHeart.Zombie",
+    "team_id": "102024536",
+    "action": "Released from team"
+  },
+  {
+    "time": "05:30:18 PDT",
+    "date": "2016-08-30",
+    "player_name": "kaka",
+    "team_name": "Newbee",
+    "team_id": "259137096",
+    "action": "Released from team"
+  },
+  {
+    "time": "05:30:16 PDT",
+    "date": "2016-08-30",
+    "player_name": "Mu",
+    "team_name": "Newbee",
+    "team_id": "259137096",
+    "action": "Released from team"
+  },
+  {
+    "time": "05:30:14 PDT",
+    "date": "2016-08-30",
+    "player_name": "ChuaN",
+    "team_name": "Newbee",
+    "team_id": "259137096",
+    "action": "Released from team"
+  },
+  {
+    "time": "05:30:12 PDT",
+    "date": "2016-08-30",
+    "player_name": "kpii",
+    "team_name": "Newbee",
+    "team_id": "259137096",
+    "action": "Released from team"
+  },
+  {
+    "time": "04:50:31 PDT",
+    "date": "2016-08-30",
+    "player_name": "Red",
+    "team_name": "BraveHeart.Zombie",
+    "team_id": "102024536",
+    "action": "Left the team"
+  },
+  {
+    "time": "04:46:53 PDT",
+    "date": "2016-08-30",
+    "player_name": "sone",
+    "team_name": "OOGWAY",
+    "team_id": "41246809",
+    "action": "Left the team"
+  },
+  {
+    "time": "03:06:23 PDT",
+    "date": "2016-08-30",
+    "player_name": "Guardian",
+    "team_name": "CDEC Gaming",
+    "team_id": "148539787",
+    "action": "Left the team"
+  },
+  {
+    "time": "02:29:01 PDT",
+    "date": "2016-08-30",
+    "player_name": "Hao",
+    "team_name": "Newbee",
+    "team_id": "259137096",
+    "action": "Released from team"
+  },
+  {
+    "time": "22:29:48 PDT",
+    "date": "2016-08-29",
+    "player_name": "BurNIng",
+    "team_name": "Vici Gaming",
+    "team_id": "100812084",
+    "action": "Left the team"
+  },
+  {
+    "time": "19:55:39 PDT",
+    "date": "2016-08-29",
+    "player_name": "Jason",
+    "team_name": "Shazam~",
+    "team_id": "31818853",
+    "action": "Left the team"
+  },
+  {
+    "time": "18:50:48 PDT",
+    "date": "2016-08-29",
+    "player_name": "Mad",
+    "team_name": "DrinkingBoys",
+    "team_id": "116030980",
+    "action": "Left the team"
+  },
+  {
+    "time": "10:42:36 PDT",
+    "date": "2016-08-29",
+    "player_name": "Yao",
+    "team_name": "CDEC Gaming",
+    "team_id": "148539787",
+    "action": "Left the team"
+  },
+  {
+    "time": "04:49:02 PDT",
+    "date": "2016-08-29",
+    "player_name": "Tims",
+    "team_name": "Execration",
+    "team_id": "91654584",
+    "action": "Released from team"
+  },
+  {
+    "time": "02:18:24 PDT",
+    "date": "2016-08-29",
+    "player_name": "iceiceice",
+    "team_name": "EHOME",
+    "team_id": "163227125",
+    "action": "Left the team"
+  },
+  {
+    "time": "00:12:03 PDT",
+    "date": "2016-08-29",
+    "player_name": "KO",
+    "team_name": "FTD club a",
+    "team_id": "184090105",
+    "action": "Released from team"
+  },
+  {
+    "time": "00:12:01 PDT",
+    "date": "2016-08-29",
+    "player_name": "destiny samaQAQ",
+    "team_name": "FTD club a",
+    "team_id": "184090105",
+    "action": "Released from team"
+  },
+  {
+    "time": "00:11:58 PDT",
+    "date": "2016-08-29",
+    "player_name": "Kingj",
+    "team_name": "FTD club a",
+    "team_id": "184090105",
+    "action": "Released from team"
+  },
+  {
+    "time": "21:10:41 PDT",
+    "date": "2016-08-28",
+    "player_name": "prettyhaw",
+    "team_name": "FTD Club b",
+    "team_id": "92965969",
+    "action": "Released from team"
+  },
+  {
+    "time": "21:10:38 PDT",
+    "date": "2016-08-28",
+    "player_name": "sss",
+    "team_name": "FTD Club b",
+    "team_id": "92965969",
+    "action": "Released from team"
+  },
+  {
+    "time": "17:16:29 PDT",
+    "date": "2016-08-28",
+    "player_name": "SumaiL",
+    "team_name": "Evil Geniuses",
+    "team_id": "70884685",
+    "action": "Left the team"
+  },
+  {
+    "time": "14:07:58 PDT",
+    "date": "2016-08-28",
+    "player_name": "Fusheng",
+    "team_name": "Void Boys",
+    "team_id": "126441784",
+    "action": "Released from team"
+  },
+  {
+    "time": "14:07:55 PDT",
+    "date": "2016-08-28",
+    "player_name": "xinq",
+    "team_name": "Void Boys",
+    "team_id": "126441784",
+    "action": "Released from team"
+  },
+  {
+    "time": "14:06:46 PDT",
+    "date": "2016-08-28",
+    "player_name": "OmegaPwner",
+    "team_name": "Void Boys",
+    "team_id": "126441784",
+    "action": "Released from team"
+  },
+  {
+    "time": "11:48:31 PDT",
+    "date": "2016-08-28",
+    "player_name": "s4",
+    "team_name": "Alliance",
+    "team_id": "32428445",
+    "action": "Left the team"
+  },
+  {
+    "time": "11:41:29 PDT",
+    "date": "2016-08-28",
+    "player_name": "DXM",
+    "team_name": "FTD Club b",
+    "team_id": "92965969",
+    "action": "Left the team"
+  },
+  {
+    "time": "07:16:21 PDT",
+    "date": "2016-08-28",
+    "player_name": "Ferrari_430",
+    "team_name": "Invictus Gaming",
+    "team_id": "86767173",
+    "action": "Left the team"
+  },
+  {
+    "time": "07:10:40 PDT",
+    "date": "2016-08-28",
+    "player_name": "Dale*",
+    "team_name": "Yellow Submarine !",
+    "team_id": "104070670",
+    "action": "Left the team"
+  },
+  {
+    "time": "06:41:28 PDT",
+    "date": "2016-08-28",
+    "player_name": "SlashStrike",
+    "team_name": "Goomba Gaming",
+    "team_id": "124904609",
+    "action": "Left the team"
+  },
+  {
+    "time": "06:01:34 PDT",
+    "date": "2016-08-28",
+    "player_name": "876",
+    "team_name": "Void Boys",
+    "team_id": "126441784",
+    "action": "Left the team"
+  },
+  {
+    "time": "04:29:02 PDT",
+    "date": "2016-08-28",
+    "player_name": "Maybe",
+    "team_name": "LGD-GAMING",
+    "team_id": "118678359",
+    "action": "Left the team"
+  },
+  {
+    "time": "13:14:09 PDT",
+    "date": "2016-08-27",
+    "player_name": "Zai",
+    "team_name": "Evil Geniuses",
+    "team_id": "70884685",
+    "action": "Released from team"
+  },
+  {
+    "time": "12:28:32 PDT",
+    "date": "2016-08-27",
+    "player_name": "BuLba",
+    "team_name": "Team Secret",
+    "team_id": "5390881",
+    "action": "Left the team"
+  },
+  {
+    "time": "12:08:18 PDT",
+    "date": "2016-08-27",
+    "player_name": "Fear",
+    "team_name": "Evil Geniuses",
+    "team_id": "70884685",
+    "action": "Released from team"
+  },
+  {
+    "time": "11:15:10 PDT",
+    "date": "2016-08-27",
+    "player_name": "Søgaard",
+    "team_name": "4Vikings+Dane",
+    "team_id": "41818582",
+    "action": "Left the team"
+  },
+  {
+    "time": "05:56:11 PDT",
+    "date": "2016-08-27",
+    "player_name": "Sccc",
+    "team_name": "Newbee.Young",
+    "team_id": "89296893",
+    "action": "Left the team"
+  },
+  {
+    "time": "19:42:39 PDT",
+    "date": "2016-08-26",
+    "player_name": "LaKelz",
+    "team_name": "Signature.Dota2",
+    "team_id": "85485252",
+    "action": "Released from team"
+  },
+  {
+    "time": "19:42:37 PDT",
+    "date": "2016-08-26",
+    "player_name": "aabBAA",
+    "team_name": "Signature.Dota2",
+    "team_id": "85485252",
+    "action": "Released from team"
+  },
+  {
+    "time": "19:42:33 PDT",
+    "date": "2016-08-26",
+    "player_name": "Jabz",
+    "team_name": "Signature.Dota2",
+    "team_id": "85485252",
+    "action": "Released from team"
+  },
+  {
+    "time": "08:27:07 PDT",
+    "date": "2016-08-26",
+    "player_name": "Steffstyle",
+    "team_name": "COOKISS",
+    "team_id": "38607887",
+    "action": "Left the team"
+  },
+  {
+    "time": "10:52:11 PDT",
+    "date": "2016-08-25",
+    "player_name": "Moo",
+    "team_name": "Digital Chaos",
+    "team_id": "690740",
+    "action": "Left the team"
+  },
+  {
+    "time": "22:57:12 PDT",
+    "date": "2016-08-24",
+    "player_name": "Y2K",
+    "team_name": "_Nas Ne Dogonyat",
+    "team_id": "117201231",
+    "action": "Released from team"
+  },
+  {
+    "time": "04:09:06 PDT",
+    "date": "2016-08-24",
+    "player_name": "Moon",
+    "team_name": "OG Dota2",
+    "team_id": "100841499",
+    "action": "Released from team"
+  },
+  {
+    "time": "02:06:38 PDT",
+    "date": "2016-08-24",
+    "player_name": "MidOne",
+    "team_name": "Fnatic",
+    "team_id": "66189266",
+    "action": "Released from team"
+  },
+  {
+    "time": "02:06:18 PDT",
+    "date": "2016-08-24",
+    "player_name": "Cr1t-",
+    "team_name": "OG Dota2",
+    "team_id": "100841499",
+    "action": "Left the team"
+  },
+  {
+    "time": "01:02:32 PDT",
+    "date": "2016-08-24",
+    "player_name": "小郭嘉",
+    "team_name": "FTD Club b",
+    "team_id": "92965969",
+    "action": "Left the team"
+  },
+  {
+    "time": "00:24:45 PDT",
+    "date": "2016-08-24",
+    "player_name": "343",
+    "team_name": "Fnatic",
+    "team_id": "66189266",
+    "action": "Left the team"
+  },
+  {
+    "time": "13:23:54 PDT",
+    "date": "2016-08-23",
+    "player_name": "FLUFFNSTUFF",
+    "team_name": "EverNovaS",
+    "team_id": "100600249",
+    "action": "Left the team"
+  },
+  {
+    "time": "09:43:49 PDT",
+    "date": "2016-08-23",
+    "player_name": "Forev",
+    "team_name": "MVP Phoenix",
+    "team_id": "93119769",
+    "action": "Left the team"
+  },
+  {
+    "time": "04:13:25 PDT",
+    "date": "2016-08-23",
+    "player_name": "Yin",
+    "team_name": "FTD club a",
+    "team_id": "184090105",
+    "action": "Left the team"
+  },
+  {
+    "time": "04:01:00 PDT",
+    "date": "2016-08-23",
+    "player_name": "Windx",
+    "team_name": "Team Empire",
+    "team_id": "106285240",
+    "action": "Automatically dropped (Sub)"
+  },
+  {
+    "time": "04:01:00 PDT",
+    "date": "2016-08-23",
+    "player_name": "xieqifang",
+    "team_name": "First Departure",
+    "team_id": "86741690",
+    "action": "Automatically dropped (Sub)"
+  },
+  {
+    "time": "04:01:00 PDT",
+    "date": "2016-08-23",
+    "player_name": "Beho",
+    "team_name": "Execration",
+    "team_id": "91654584",
+    "action": "Automatically dropped (Sub)"
+  },
+  {
+    "time": "04:01:00 PDT",
+    "date": "2016-08-23",
+    "player_name": "ping",
+    "team_name": "FTD Club b",
+    "team_id": "92965969",
+    "action": "Automatically dropped (Sub)"
+  },
+  {
+    "time": "04:01:00 PDT",
+    "date": "2016-08-23",
+    "player_name": "USH",
+    "team_name": "Digital Chaos",
+    "team_id": "690740",
+    "action": "Automatically dropped (Sub)"
+  },
+  {
+    "time": "04:01:00 PDT",
+    "date": "2016-08-23",
+    "player_name": "Zy",
+    "team_name": "CDEC Gaming",
+    "team_id": "148539787",
+    "action": "Automatically dropped (Sub)"
+  },
+  {
+    "time": "04:01:00 PDT",
+    "date": "2016-08-23",
+    "player_name": "zxyc",
+    "team_name": "Kingdom DotA~",
+    "team_id": "5571849",
+    "action": "Automatically dropped (Sub)"
+  },
+  {
+    "time": "04:01:00 PDT",
+    "date": "2016-08-23",
+    "player_name": "Lugia",
+    "team_name": "CDEC.Avengers",
+    "team_id": "118344286",
+    "action": "Automatically dropped (Sub)"
+  },
+  {
+    "time": "04:01:00 PDT",
+    "date": "2016-08-23",
+    "player_name": "sharingan",
+    "team_name": "FTD club a",
+    "team_id": "184090105",
+    "action": "Automatically dropped (Sub)"
+  },
+  {
+    "time": "04:01:00 PDT",
+    "date": "2016-08-23",
+    "player_name": "Blaze",
+    "team_name": "Shazam~",
+    "team_id": "31818853",
+    "action": "Automatically dropped (Sub)"
+  },
+  {
+    "time": "04:01:00 PDT",
+    "date": "2016-08-23",
+    "player_name": "Key",
+    "team_name": "Newbee.Young",
+    "team_id": "89296893",
+    "action": "Automatically dropped (Sub)"
+  },
+  {
+    "time": "04:01:00 PDT",
+    "date": "2016-08-23",
+    "player_name": "ana",
+    "team_name": "Invictus Gaming",
+    "team_id": "86767173",
+    "action": "Automatically dropped (Sub)"
+  },
+  {
+    "time": "04:01:00 PDT",
+    "date": "2016-08-23",
+    "player_name": "Winter",
+    "team_name": "Mineski-X",
+    "team_id": "107462128",
+    "action": "Automatically dropped (Sub)"
+  },
+  {
+    "time": "04:01:00 PDT",
+    "date": "2016-08-23",
+    "player_name": "Shion",
+    "team_name": "Exodus",
+    "team_id": "193699561",
+    "action": "Automatically dropped (Sub)"
+  },
+  {
+    "time": "04:01:00 PDT",
+    "date": "2016-08-23",
+    "player_name": "Op",
+    "team_name": "iG.Vitality",
+    "team_id": "103039499",
+    "action": "Automatically dropped (Sub)"
+  },
+  {
+    "time": "04:01:00 PDT",
+    "date": "2016-08-23",
+    "player_name": "DDDDD",
+    "team_name": "",
+    "team_id": "151717190",
+    "action": "Automatically dropped (Sub)"
+  },
+  {
+    "time": "04:01:00 PDT",
+    "date": "2016-08-23",
+    "player_name": "Riser",
+    "team_name": "compLexity Gaming",
+    "team_id": "28291366",
+    "action": "Automatically dropped (Sub)"
+  },
+  {
+    "time": "04:01:00 PDT",
+    "date": "2016-08-23",
+    "player_name": "Frempo",
+    "team_name": "gossip girls ;)",
+    "team_id": "296985310",
+    "action": "Automatically dropped (Sub)"
+  },
+  {
+    "time": "04:01:00 PDT",
+    "date": "2016-08-23",
+    "player_name": "XuaN",
+    "team_name": "iG.Vitality",
+    "team_id": "103039499",
+    "action": "Automatically dropped (Sub)"
+  },
+  {
+    "time": "04:01:00 PDT",
+    "date": "2016-08-23",
+    "player_name": "470",
+    "team_name": "EarthHippo",
+    "team_id": "165286316",
+    "action": "Automatically dropped (Sub)"
+  },
+  {
+    "time": "04:01:00 PDT",
+    "date": "2016-08-23",
+    "player_name": "yw",
+    "team_name": "_PowerRangers",
+    "team_id": "149591474",
+    "action": "Automatically dropped (Sub)"
+  },
+  {
+    "time": "04:01:00 PDT",
+    "date": "2016-08-23",
+    "player_name": "JessieVash*",
+    "team_name": "Mineski.Sports5",
+    "team_id": "86485206",
+    "action": "Automatically dropped (Sub)"
+  },
+  {
+    "time": "04:01:00 PDT",
+    "date": "2016-08-23",
+    "player_name": "Fogged",
+    "team_name": "Vegetables Esports Club",
+    "team_id": "59457413",
+    "action": "Automatically dropped (Sub)"
+  },
+  {
+    "time": "04:01:00 PDT",
+    "date": "2016-08-23",
+    "player_name": "Roddgee",
+    "team_name": "Orange.Taring",
+    "team_id": "121052479",
+    "action": "Automatically dropped (Sub)"
+  },
+  {
+    "time": "04:01:00 PDT",
+    "date": "2016-08-23",
+    "player_name": "Adobe",
+    "team_name": "Void Boys",
+    "team_id": "126441784",
+    "action": "Automatically dropped (Sub)"
+  },
+  {
+    "time": "04:01:00 PDT",
+    "date": "2016-08-23",
+    "player_name": "仔仔",
+    "team_name": "the wings gaming",
+    "team_id": "111114687",
+    "action": "Automatically dropped (Sub)"
+  },
+  {
+    "time": "04:01:00 PDT",
+    "date": "2016-08-23",
+    "player_name": "-Zz",
+    "team_name": "ThundeRobot Gaming",
+    "team_id": "132418713",
+    "action": "Automatically dropped (Sub)"
+  },
+  {
+    "time": "04:01:00 PDT",
+    "date": "2016-08-23",
+    "player_name": "Kecik Imba",
+    "team_name": "Mineski-X",
+    "team_id": "107462128",
+    "action": "Automatically dropped (Sub)"
+  },
+  {
+    "time": "04:01:00 PDT",
+    "date": "2016-08-23",
+    "player_name": "Sep",
+    "team_name": "LGD-GAMING",
+    "team_id": "118678359",
+    "action": "Automatically dropped (Sub)"
+  },
+  {
+    "time": "04:01:00 PDT",
+    "date": "2016-08-23",
+    "player_name": "Xcalibur",
+    "team_name": "OG Dota2",
+    "team_id": "100841499",
+    "action": "Automatically dropped (Sub)"
+  },
+  {
+    "time": "04:01:00 PDT",
+    "date": "2016-08-23",
+    "player_name": "Beef",
+    "team_name": "compLexity Gaming",
+    "team_id": "28291366",
+    "action": "Automatically dropped (Sub)"
+  },
+  {
+    "time": "04:01:00 PDT",
+    "date": "2016-08-23",
+    "player_name": "Klo",
+    "team_name": "TNC Pro Team",
+    "team_id": "173476224",
+    "action": "Automatically dropped (Sub)"
+  },
+  {
+    "time": "04:01:00 PDT",
+    "date": "2016-08-23",
+    "player_name": "Gui",
+    "team_name": "paiN Gaming",
+    "team_id": "164113247",
+    "action": "Automatically dropped (Sub)"
+  },
+  {
+    "time": "04:01:00 PDT",
+    "date": "2016-08-23",
+    "player_name": "MorEnCce",
+    "team_name": "Energy Pacemaker gaming",
+    "team_id": "114845159",
+    "action": "Automatically dropped (Sub)"
+  },
+  {
+    "time": "04:01:00 PDT",
+    "date": "2016-08-23",
+    "player_name": "Yang",
+    "team_name": "Vici_Gaming Reborn",
+    "team_id": "128513043",
+    "action": "Automatically dropped (Sub)"
+  },
+  {
+    "time": "04:01:00 PDT",
+    "date": "2016-08-23",
+    "player_name": "FeiMao",
+    "team_name": "Signature.Dota2",
+    "team_id": "85485252",
+    "action": "Automatically dropped (Sub)"
+  },
+  {
+    "time": "04:01:00 PDT",
+    "date": "2016-08-23",
+    "player_name": "ifrit",
+    "team_name": "EverNovaS",
+    "team_id": "100600249",
+    "action": "Automatically dropped (Sub)"
+  },
+  {
+    "time": "04:01:00 PDT",
+    "date": "2016-08-23",
+    "player_name": "Docy",
+    "team_name": "GUS-GAMING.COM",
+    "team_id": "42475673",
+    "action": "Automatically dropped (Sub)"
+  },
+  {
+    "time": "03:04:43 PDT",
+    "date": "2016-08-23",
+    "player_name": "MeTTpuM",
+    "team_name": "FlipSid3 Tactics",
+    "team_id": "11550182",
+    "action": "Released from team"
+  },
+  {
+    "time": "02:30:51 PDT",
+    "date": "2016-08-23",
+    "player_name": "Ran",
+    "team_name": "FTD Club b",
+    "team_id": "92965969",
+    "action": "Left the team"
+  },
+  {
+    "time": "01:55:16 PDT",
+    "date": "2016-08-23",
+    "player_name": "uuu9",
+    "team_name": "TongFu|",
+    "team_id": "88521435",
+    "action": "Released from team"
+  },
+  {
+    "time": "01:50:47 PDT",
+    "date": "2016-08-23",
+    "player_name": "kabu",
+    "team_name": "TongFu|",
+    "team_id": "88521435",
+    "action": "Left the team"
+  },
+  {
+    "time": "01:47:28 PDT",
+    "date": "2016-08-23",
+    "player_name": "Faith",
+    "team_name": "TongFu|",
+    "team_id": "88521435",
+    "action": "Left the team"
+  },
+  {
+    "time": "01:44:10 PDT",
+    "date": "2016-08-23",
+    "player_name": "lpc",
+    "team_name": "TongFu|",
+    "team_id": "88521435",
+    "action": "Left the team"
+  },
+  {
+    "time": "01:18:04 PDT",
+    "date": "2016-08-23",
+    "player_name": "ddr",
+    "team_name": "TongFu|",
+    "team_id": "88521435",
+    "action": "Released from team"
+  },
+  {
+    "time": "14:18:38 PDT",
+    "date": "2016-08-22",
+    "player_name": "747",
+    "team_name": "Kingdom DotA~",
+    "team_id": "5571849",
+    "action": "Left the team"
+  },
+  {
+    "time": "13:47:16 PDT",
+    "date": "2016-08-22",
+    "player_name": "futzeh",
+    "team_name": "EarthHippo",
+    "team_id": "165286316",
+    "action": "Released from team"
+  },
+  {
+    "time": "13:47:13 PDT",
+    "date": "2016-08-22",
+    "player_name": "RvP",
+    "team_name": "EarthHippo",
+    "team_id": "165286316",
+    "action": "Released from team"
+  },
+  {
+    "time": "13:47:10 PDT",
+    "date": "2016-08-22",
+    "player_name": "Jane XO",
+    "team_name": "EarthHippo",
+    "team_id": "165286316",
+    "action": "Released from team"
+  },
+  {
+    "time": "13:47:07 PDT",
+    "date": "2016-08-22",
+    "player_name": "Funzii",
+    "team_name": "EarthHippo",
+    "team_id": "165286316",
+    "action": "Released from team"
+  },
+  {
+    "time": "13:47:05 PDT",
+    "date": "2016-08-22",
+    "player_name": "Eosin",
+    "team_name": "EarthHippo",
+    "team_id": "165286316",
+    "action": "Released from team"
+  },
+  {
+    "time": "10:24:48 PDT",
+    "date": "2016-08-22",
+    "player_name": "boris",
+    "team_name": "wonder wolfs :v",
+    "team_id": "21604967",
+    "action": "Left the team"
+  },
+  {
+    "time": "07:51:01 PDT",
+    "date": "2016-08-22",
+    "player_name": "Eagle",
+    "team_name": "Team Freedom Dota 2",
+    "team_id": "86715129",
+    "action": "Released from team"
+  },
+  {
+    "time": "07:50:59 PDT",
+    "date": "2016-08-22",
+    "player_name": "ixmike88",
+    "team_name": "Team Freedom Dota 2",
+    "team_id": "86715129",
+    "action": "Released from team"
+  },
+  {
+    "time": "02:50:09 PDT",
+    "date": "2016-08-22",
+    "player_name": "Ame",
+    "team_name": "",
+    "team_id": "151717190",
+    "action": "Left the team"
+  },
+  {
+    "time": "02:11:37 PDT",
+    "date": "2016-08-22",
+    "player_name": "Icy",
+    "team_name": "FTD club a",
+    "team_id": "184090105",
+    "action": "Left the team"
+  },
+  {
+    "time": "01:59:54 PDT",
+    "date": "2016-08-22",
+    "player_name": "Solen",
+    "team_name": "London Conspiracy Dota2",
+    "team_id": "106064005",
+    "action": "Left the team"
+  },
+  {
+    "time": "23:03:35 PDT",
+    "date": "2016-08-21",
+    "player_name": "Eyyou",
+    "team_name": "TNC Pro Team",
+    "team_id": "173476224",
+    "action": "Left the team"
+  },
+  {
+    "time": "17:14:57 PDT",
+    "date": "2016-08-21",
+    "player_name": "wwd",
+    "team_name": "gossip girls ;)",
+    "team_id": "296985310",
+    "action": "Left the team"
+  },
+  {
+    "time": "06:58:29 PDT",
+    "date": "2016-08-21",
+    "player_name": "Ghostik",
+    "team_name": "Fantastic.Five'",
+    "team_id": "76600360",
+    "action": "Released from team"
+  },
+  {
+    "time": "06:58:26 PDT",
+    "date": "2016-08-21",
+    "player_name": "XBOCT",
+    "team_name": "Fantastic.Five'",
+    "team_id": "76600360",
+    "action": "Released from team"
+  },
+  {
+    "time": "22:02:12 PDT",
+    "date": "2016-08-20",
+    "player_name": "KaNG",
+    "team_name": "Mineski-X",
+    "team_id": "107462128",
+    "action": "Released from team"
+  },
+  {
+    "time": "22:02:07 PDT",
+    "date": "2016-08-20",
+    "player_name": "NiCx  `",
+    "team_name": "Mineski-X",
+    "team_id": "107462128",
+    "action": "Released from team"
+  },
+  {
+    "time": "20:29:14 PDT",
+    "date": "2016-08-20",
+    "player_name": "Shiki",
+    "team_name": "",
+    "team_id": "151717190",
+    "action": "Left the team"
+  },
+  {
+    "time": "19:13:44 PDT",
+    "date": "2016-08-20",
+    "player_name": "jdh",
+    "team_name": "Vici Gaming",
+    "team_id": "100812084",
+    "action": "Released from team"
+  },
+  {
+    "time": "09:50:38 PDT",
+    "date": "2016-08-20",
+    "player_name": "Agressif",
+    "team_name": "LGD-GAMING",
+    "team_id": "118678359",
+    "action": "Left the team"
+  },
+  {
+    "time": "04:30:44 PDT",
+    "date": "2016-08-20",
+    "player_name": "Vasiliy",
+    "team_name": "Prodota GaminG",
+    "team_id": "114048579",
+    "action": "Left the team"
+  },
+  {
+    "time": "04:16:33 PDT",
+    "date": "2016-08-20",
+    "player_name": "Arszeeq",
+    "team_name": "Prodota GaminG",
+    "team_id": "114048579",
+    "action": "Released from team"
+  },
+  {
+    "time": "04:16:29 PDT",
+    "date": "2016-08-20",
+    "player_name": "UnderShock",
+    "team_name": "Prodota GaminG",
+    "team_id": "114048579",
+    "action": "Released from team"
+  },
+  {
+    "time": "04:16:25 PDT",
+    "date": "2016-08-20",
+    "player_name": "RodjER",
+    "team_name": "Prodota GaminG",
+    "team_id": "114048579",
+    "action": "Released from team"
+  },
+  {
+    "time": "04:05:52 PDT",
+    "date": "2016-08-20",
+    "player_name": "nb",
+    "team_name": "Team-Rave",
+    "team_id": "91443418",
+    "action": "Released from team"
+  },
+  {
+    "time": "04:05:50 PDT",
+    "date": "2016-08-20",
+    "player_name": "derp",
+    "team_name": "Team-Rave",
+    "team_id": "91443418",
+    "action": "Released from team"
+  },
+  {
+    "time": "03:58:28 PDT",
+    "date": "2016-08-20",
+    "player_name": "Eskillz",
+    "team_name": "COOKISS",
+    "team_id": "38607887",
+    "action": "Left the team"
+  },
+  {
+    "time": "03:49:33 PDT",
+    "date": "2016-08-20",
+    "player_name": "Scabo",
+    "team_name": "Goomba Gaming",
+    "team_id": "124904609",
+    "action": "Left the team"
+  },
+  {
+    "time": "01:59:51 PDT",
+    "date": "2016-08-20",
+    "player_name": "ManTou",
+    "team_name": "DrinkingBoys",
+    "team_id": "116030980",
+    "action": "Left the team"
+  },
+  {
+    "time": "01:44:48 PDT",
+    "date": "2016-08-20",
+    "player_name": "Net",
+    "team_name": "Fnatic",
+    "team_id": "66189266",
+    "action": "Left the team"
+  },
+  {
+    "time": "00:14:19 PDT",
+    "date": "2016-08-20",
+    "player_name": "Sam H",
+    "team_name": "TNC Pro Team",
+    "team_id": "173476224",
+    "action": "Left the team"
+  },
+  {
+    "time": "22:23:20 PDT",
+    "date": "2016-08-19",
+    "player_name": "Benhur",
+    "team_name": "Mineski.Sports5",
+    "team_id": "86485206",
+    "action": "Left the team"
+  },
+  {
+    "time": "20:04:08 PDT",
+    "date": "2016-08-19",
+    "player_name": "ryOyr",
+    "team_name": "Team-Rave",
+    "team_id": "91443418",
+    "action": "Left the team"
+  },
+  {
+    "time": "19:38:38 PDT",
+    "date": "2016-08-19",
+    "player_name": "Meracle",
+    "team_name": "First Departure",
+    "team_id": "86741690",
+    "action": "Left the team"
+  },
+  {
+    "time": "18:54:04 PDT",
+    "date": "2016-08-19",
+    "player_name": "1437",
+    "team_name": "Team Secret",
+    "team_id": "5390881",
+    "action": "Left the team"
+  },
+  {
+    "time": "18:30:44 PDT",
+    "date": "2016-08-19",
+    "player_name": "Demon",
+    "team_name": "TNC Pro Team",
+    "team_id": "173476224",
+    "action": "Left the team"
+  },
+  {
+    "time": "18:01:05 PDT",
+    "date": "2016-08-19",
+    "player_name": "Pablo",
+    "team_name": "COOKISS",
+    "team_id": "38607887",
+    "action": "Left the team"
+  },
+  {
+    "time": "17:43:46 PDT",
+    "date": "2016-08-19",
+    "player_name": "Loomdun",
+    "team_name": "Exodus",
+    "team_id": "193699561",
+    "action": "Left the team"
+  },
+  {
+    "time": "17:20:14 PDT",
+    "date": "2016-08-19",
+    "player_name": "Aui_2000",
+    "team_name": "Team Secret",
+    "team_id": "5390881",
+    "action": "Left the team"
+  },
+  {
+    "time": "16:56:12 PDT",
+    "date": "2016-08-19",
+    "player_name": "Raven",
+    "team_name": "TNC Pro Team",
+    "team_id": "173476224",
+    "action": "Left the team"
+  },
+  {
+    "time": "16:32:02 PDT",
+    "date": "2016-08-19",
+    "player_name": "Bokerino",
+    "team_name": "Mineski.Sports5",
+    "team_id": "86485206",
+    "action": "Left the team"
+  },
+  {
+    "time": "16:27:25 PDT",
+    "date": "2016-08-19",
+    "player_name": "Kuku",
+    "team_name": "TNC Pro Team",
+    "team_id": "173476224",
+    "action": "Left the team"
+  },
+  {
+    "time": "15:52:17 PDT",
+    "date": "2016-08-19",
+    "player_name": "Butterfly",
+    "team_name": "TEAM Ti",
+    "team_id": "100737431",
+    "action": "Released from team"
+  },
+  {
+    "time": "15:52:15 PDT",
+    "date": "2016-08-19",
+    "player_name": "Qing",
+    "team_name": "TEAM Ti",
+    "team_id": "100737431",
+    "action": "Released from team"
+  },
+  {
+    "time": "15:52:11 PDT",
+    "date": "2016-08-19",
+    "player_name": "Sunshine",
+    "team_name": "TEAM Ti",
+    "team_id": "100737431",
+    "action": "Released from team"
+  },
+  {
+    "time": "15:52:08 PDT",
+    "date": "2016-08-19",
+    "player_name": "Shota",
+    "team_name": "TEAM Ti",
+    "team_id": "100737431",
+    "action": "Released from team"
+  },
+  {
+    "time": "15:51:19 PDT",
+    "date": "2016-08-19",
+    "player_name": "美东小蝴蝶",
+    "team_name": "TEAM Ti",
+    "team_id": "100737431",
+    "action": "Released from team"
+  },
+  {
+    "time": "15:09:26 PDT",
+    "date": "2016-08-19",
+    "player_name": "Five",
+    "team_name": "COOKISS",
+    "team_id": "38607887",
+    "action": "Left the team"
+  },
+  {
+    "time": "15:03:57 PDT",
+    "date": "2016-08-19",
+    "player_name": "xuan",
+    "team_name": "EverNova",
+    "team_id": "124706060",
+    "action": "Released from team"
+  },
+  {
+    "time": "15:02:27 PDT",
+    "date": "2016-08-19",
+    "player_name": "Mavav",
+    "team_name": "COOKISS",
+    "team_id": "38607887",
+    "action": "Left the team"
+  },
+  {
+    "time": "14:29:33 PDT",
+    "date": "2016-08-19",
+    "player_name": "Jericho",
+    "team_name": "Not Today !",
+    "team_id": "88358606",
+    "action": "Released from team"
+  },
+  {
+    "time": "14:29:21 PDT",
+    "date": "2016-08-19",
+    "player_name": "Kingteka",
+    "team_name": "Not Today !",
+    "team_id": "88358606",
+    "action": "Released from team"
+  },
+  {
+    "time": "14:29:10 PDT",
+    "date": "2016-08-19",
+    "player_name": "Benjaz",
+    "team_name": "Not Today !",
+    "team_id": "88358606",
+    "action": "Released from team"
+  },
+  {
+    "time": "13:05:03 PDT",
+    "date": "2016-08-19",
+    "player_name": "Vroksnak",
+    "team_name": "4Vikings+Dane",
+    "team_id": "41818582",
+    "action": "Left the team"
+  },
+  {
+    "time": "12:54:11 PDT",
+    "date": "2016-08-19",
+    "player_name": "okcya",
+    "team_name": "OOGWAY",
+    "team_id": "41246809",
+    "action": "Left the team"
+  },
+  {
+    "time": "12:29:45 PDT",
+    "date": "2016-08-19",
+    "player_name": "mlwhisper",
+    "team_name": "OOGWAY",
+    "team_id": "41246809",
+    "action": "Left the team"
+  },
+  {
+    "time": "12:20:31 PDT",
+    "date": "2016-08-19",
+    "player_name": "EternaLEnVy",
+    "team_name": "Team Secret",
+    "team_id": "5390881",
+    "action": "Left the team"
+  },
+  {
+    "time": "11:52:53 PDT",
+    "date": "2016-08-19",
+    "player_name": "shakir4xd",
+    "team_name": "CNB e-Sports",
+    "team_id": "22454744",
+    "action": "Released from team"
+  },
+  {
+    "time": "11:52:50 PDT",
+    "date": "2016-08-19",
+    "player_name": "Ned",
+    "team_name": "CNB e-Sports",
+    "team_id": "22454744",
+    "action": "Released from team"
+  },
+  {
+    "time": "11:52:46 PDT",
+    "date": "2016-08-19",
+    "player_name": "FuckinEh",
+    "team_name": "CNB e-Sports",
+    "team_id": "22454744",
+    "action": "Released from team"
+  },
+  {
+    "time": "11:52:41 PDT",
+    "date": "2016-08-19",
+    "player_name": "Tale",
+    "team_name": "CNB e-Sports",
+    "team_id": "22454744",
+    "action": "Released from team"
+  },
+  {
+    "time": "11:52:37 PDT",
+    "date": "2016-08-19",
+    "player_name": "guipepe_420",
+    "team_name": "CNB e-Sports",
+    "team_id": "22454744",
+    "action": "Released from team"
+  },
+  {
+    "time": "10:20:14 PDT",
+    "date": "2016-08-19",
+    "player_name": "rapppy",
+    "team_name": "Team-Rave",
+    "team_id": "91443418",
+    "action": "Left the team"
+  },
+  {
+    "time": "10:13:38 PDT",
+    "date": "2016-08-19",
+    "player_name": "Ax.Mo",
+    "team_name": "Prodota GaminG",
+    "team_id": "114048579",
+    "action": "Left the team"
+  },
+  {
+    "time": "10:13:37 PDT",
+    "date": "2016-08-19",
+    "player_name": "Sh4dowehhh",
+    "team_name": "Prodota GaminG",
+    "team_id": "114048579",
+    "action": "Left the team"
+  },
+  {
+    "time": "09:21:09 PDT",
+    "date": "2016-08-19",
+    "player_name": "MP",
+    "team_name": "MVP Phoenix",
+    "team_id": "93119769",
+    "action": "Left the team"
+  },
+  {
+    "time": "07:02:58 PDT",
+    "date": "2016-08-19",
+    "player_name": "SunBhie",
+    "team_name": "Team Freedom Dota 2",
+    "team_id": "86715129",
+    "action": "Left the team"
+  },
+  {
+    "time": "05:47:54 PDT",
+    "date": "2016-08-19",
+    "player_name": "Skiter.Oyasumi",
+    "team_name": "Goomba Gaming",
+    "team_id": "124904609",
+    "action": "Left the team"
+  },
+  {
+    "time": "05:28:35 PDT",
+    "date": "2016-08-19",
+    "player_name": "weddingcrash",
+    "team_name": "First Departure",
+    "team_id": "86741690",
+    "action": "Left the team"
+  },
+  {
+    "time": "04:47:59 PDT",
+    "date": "2016-08-19",
+    "player_name": "Goblak",
+    "team_name": "Team. Spirit",
+    "team_id": "113863940",
+    "action": "Released from team"
+  },
+  {
+    "time": "04:47:55 PDT",
+    "date": "2016-08-19",
+    "player_name": "Funn1k",
+    "team_name": "Team. Spirit",
+    "team_id": "113863940",
+    "action": "Released from team"
+  },
+  {
+    "time": "04:47:53 PDT",
+    "date": "2016-08-19",
+    "player_name": "Illidan",
+    "team_name": "Team. Spirit",
+    "team_id": "113863940",
+    "action": "Released from team"
+  },
+  {
+    "time": "04:27:50 PDT",
+    "date": "2016-08-19",
+    "player_name": "Fng",
+    "team_name": "Virtus.pro",
+    "team_id": "94049589",
+    "action": "Released from team"
+  },
+  {
+    "time": "03:34:00 PDT",
+    "date": "2016-08-19",
+    "player_name": "Женя",
+    "team_name": "Polarity Dota 2",
+    "team_id": "88984735",
+    "action": "Left the team"
+  },
+  {
+    "time": "03:18:38 PDT",
+    "date": "2016-08-19",
+    "player_name": "No[o]ne-",
+    "team_name": "Vega Squadron",
+    "team_id": "91460772",
+    "action": "Left the team"
+  },
+  {
+    "time": "03:17:32 PDT",
+    "date": "2016-08-19",
+    "player_name": "ALWAYSWANNAFLY",
+    "team_name": "Team. Spirit",
+    "team_id": "113863940",
+    "action": "Left the team"
+  },
+  {
+    "time": "03:07:09 PDT",
+    "date": "2016-08-19",
+    "player_name": "Solo",
+    "team_name": "Vega Squadron",
+    "team_id": "91460772",
+    "action": "Left the team"
+  },
+  {
+    "time": "03:06:50 PDT",
+    "date": "2016-08-19",
+    "player_name": "G",
+    "team_name": "Virtus.pro",
+    "team_id": "94049589",
+    "action": "Left the team"
+  },
+  {
+    "time": "03:06:11 PDT",
+    "date": "2016-08-19",
+    "player_name": "Iceberg",
+    "team_name": "Team. Spirit",
+    "team_id": "113863940",
+    "action": "Left the team"
+  },
+  {
+    "time": "02:42:23 PDT",
+    "date": "2016-08-19",
+    "player_name": "MyPro",
+    "team_name": "Signature.Dota2",
+    "team_id": "85485252",
+    "action": "Released from team"
+  },
+  {
+    "time": "02:42:09 PDT",
+    "date": "2016-08-19",
+    "player_name": "Boombell",
+    "team_name": "Signature.Dota2",
+    "team_id": "85485252",
+    "action": "Released from team"
+  },
+  {
+    "time": "02:41:29 PDT",
+    "date": "2016-08-19",
+    "player_name": "ALOHADANCE",
+    "team_name": "Virtus.pro",
+    "team_id": "94049589",
+    "action": "Left the team"
+  },
+  {
+    "time": "02:36:38 PDT",
+    "date": "2016-08-19",
+    "player_name": "canceL^^",
+    "team_name": "Kaipi",
+    "team_id": "88719902",
+    "action": "Left the team"
+  },
+  {
+    "time": "02:15:18 PDT",
+    "date": "2016-08-19",
+    "player_name": "Cast",
+    "team_name": "Mineski.Sports5",
+    "team_id": "86485206",
+    "action": "Left the team"
+  },
+  {
+    "time": "02:13:04 PDT",
+    "date": "2016-08-19",
+    "player_name": "JoHnNy",
+    "team_name": "Mineski-X",
+    "team_id": "107462128",
+    "action": "Left the team"
+  },
+  {
+    "time": "02:09:59 PDT",
+    "date": "2016-08-19",
+    "player_name": "DkPhobos",
+    "team_name": "Polarity Dota 2",
+    "team_id": "88984735",
+    "action": "Left the team"
+  },
+  {
+    "time": "02:05:59 PDT",
+    "date": "2016-08-19",
+    "player_name": "Silent",
+    "team_name": "Virtus.pro",
+    "team_id": "94049589",
+    "action": "Left the team"
+  },
+  {
+    "time": "02:01:34 PDT",
+    "date": "2016-08-19",
+    "player_name": "9pasha",
+    "team_name": "Polarity Dota 2",
+    "team_id": "88984735",
+    "action": "Left the team"
+  },
+  {
+    "time": "01:57:51 PDT",
+    "date": "2016-08-19",
+    "player_name": "Lil",
+    "team_name": "Polarity Dota 2",
+    "team_id": "88984735",
+    "action": "Left the team"
+  },
+  {
+    "time": "01:56:01 PDT",
+    "date": "2016-08-19",
+    "player_name": "Seleri",
+    "team_name": "Goomba Gaming",
+    "team_id": "124904609",
+    "action": "Left the team"
+  },
+  {
+    "time": "01:43:09 PDT",
+    "date": "2016-08-19",
+    "player_name": "xNova",
+    "team_name": "Mineski-X",
+    "team_id": "107462128",
+    "action": "Left the team"
+  },
+  {
+    "time": "01:06:53 PDT",
+    "date": "2016-08-19",
+    "player_name": "DJ",
+    "team_name": "Fnatic",
+    "team_id": "66189266",
+    "action": "Left the team"
+  },
+  {
+    "time": "00:55:25 PDT",
+    "date": "2016-08-19",
+    "player_name": "Pingvincek",
+    "team_name": "The Imperial",
+    "team_id": "23883296",
+    "action": "Released from team"
+  },
+  {
+    "time": "00:34:23 PDT",
+    "date": "2016-08-19",
+    "player_name": "Scandal",
+    "team_name": "Team Empire",
+    "team_id": "106285240",
+    "action": "Left the team"
+  },
+  {
+    "time": "23:18:51 PDT",
+    "date": "2016-08-18",
+    "player_name": "Rr",
+    "team_name": "Execration",
+    "team_id": "91654584",
+    "action": "Released from team"
+  },
+  {
+    "time": "23:18:48 PDT",
+    "date": "2016-08-18",
+    "player_name": "Nando",
+    "team_name": "Execration",
+    "team_id": "91654584",
+    "action": "Released from team"
+  },
+  {
+    "time": "21:13:03 PDT",
+    "date": "2016-08-18",
+    "player_name": "Yawar",
+    "team_name": "EverNovaS",
+    "team_id": "100600249",
+    "action": "Left the team"
+  },
+  {
+    "time": "20:32:13 PDT",
+    "date": "2016-08-18",
+    "player_name": "Ho_OK",
+    "team_name": "EverNova",
+    "team_id": "124706060",
+    "action": "Released from team"
+  },
+  {
+    "time": "20:32:12 PDT",
+    "date": "2016-08-18",
+    "player_name": "mercy plz",
+    "team_name": "EverNova",
+    "team_id": "124706060",
+    "action": "Released from team"
+  },
+  {
+    "time": "20:32:09 PDT",
+    "date": "2016-08-18",
+    "player_name": "Let Me Go",
+    "team_name": "EverNova",
+    "team_id": "124706060",
+    "action": "Released from team"
+  },
+  {
+    "time": "20:32:04 PDT",
+    "date": "2016-08-18",
+    "player_name": "DurpDurp",
+    "team_name": "EverNova",
+    "team_id": "124706060",
+    "action": "Released from team"
+  },
+  {
+    "time": "20:21:54 PDT",
+    "date": "2016-08-18",
+    "player_name": "NJ",
+    "team_name": "Orange.Taring",
+    "team_id": "121052479",
+    "action": "Left the team"
+  },
+  {
+    "time": "20:15:29 PDT",
+    "date": "2016-08-18",
+    "player_name": "Jubei",
+    "team_name": "Team Freedom Dota 2",
+    "team_id": "86715129",
+    "action": "Left the team"
+  },
+  {
+    "time": "20:13:31 PDT",
+    "date": "2016-08-18",
+    "player_name": "Jesus \"Ztok\" Carhuaricra Soria",
+    "team_name": "wonder wolfs :v",
+    "team_id": "21604967",
+    "action": "Left the team"
+  },
+  {
+    "time": "20:02:31 PDT",
+    "date": "2016-08-18",
+    "player_name": "koushu",
+    "team_name": "wonder wolfs :v",
+    "team_id": "21604967",
+    "action": "Left the team"
+  },
+  {
+    "time": "19:59:18 PDT",
+    "date": "2016-08-18",
+    "player_name": "FLee",
+    "team_name": "Team Freedom Dota 2",
+    "team_id": "86715129",
+    "action": "Left the team"
+  },
+  {
+    "time": "19:51:44 PDT",
+    "date": "2016-08-18",
+    "player_name": "monkeys-forever",
+    "team_name": "perky pepperonis",
+    "team_id": "82051518",
+    "action": "Left the team"
+  },
+  {
+    "time": "19:35:30 PDT",
+    "date": "2016-08-18",
+    "player_name": "Eden",
+    "team_name": "_Nas Ne Dogonyat",
+    "team_id": "117201231",
+    "action": "Left the team"
+  },
+  {
+    "time": "19:31:12 PDT",
+    "date": "2016-08-18",
+    "player_name": "Jeyo",
+    "team_name": "Team-Rave",
+    "team_id": "91443418",
+    "action": "Left the team"
+  },
+  {
+    "time": "19:29:02 PDT",
+    "date": "2016-08-18",
+    "player_name": "@yxl",
+    "team_name": "CDEC.Avengers",
+    "team_id": "118344286",
+    "action": "Released from team"
+  },
+  {
+    "time": "19:27:55 PDT",
+    "date": "2016-08-18",
+    "player_name": "MSS",
+    "team_name": "Shazam~",
+    "team_id": "31818853",
+    "action": "Left the team"
+  },
+  {
+    "time": "19:22:28 PDT",
+    "date": "2016-08-18",
+    "player_name": "SVG",
+    "team_name": "Evil Geniuses",
+    "team_id": "70884685",
+    "action": "Left the team"
+  }
+]

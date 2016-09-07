@@ -76,6 +76,8 @@ scraper = DotaRosterScraper.new(
   team_id_pattern: /\(ID: (\d+)\)/i
 )
 
-File.open("public/rosters.json","w") do |f|
-  f.write(JSON.pretty_generate(scraper.scrape))
+pp scraper.scrape
+
+File.open("public/rosters.json", "w") do |f|
+    f.write(scraper.scrape)
 end
